@@ -7,9 +7,9 @@ keywords: Xiaoran, Sun, Human Development, Family Studies, HDFS, PhD
 
 Welcome to my website! I am a PhD candidate in Human Development and Family Studies at Pennsylvania State University. My graduate minor is Social Data Analytics. I started my graduate program study in August, 2015 and expect to complete in August, 2019. 
 
-My research interests: 
-(1) Adolescents’ and young adults’ educational achievement and career development, with a specific focus on the role of gender and family dynamics in youth development and achievement among families from different sociocultural backgrounds; 
-(2) Methodological approaches to analyzing individual development and family systems, such as growth curve analysis and dyadic/multi-member data analysis; 
+My research interests: <br/>
+(1) Adolescents’ and young adults’ educational achievement and career development, with a specific focus on the role of gender and family dynamics in youth development and achievement among families from different sociocultural backgrounds; <br/>
+(2) Methodological approaches to analyzing individual development and family systems, such as growth curve analysis and dyadic/multi-member data analysis; <br/>
 (3) Computational social science, with a focus on utilizing large-scale and big data and machine learning methods to inform developmental and family research.
 
 I am currently on the job market looking for post-doc positions related to big data/data mining and family/youth development.
