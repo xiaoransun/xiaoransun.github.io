@@ -3,7 +3,7 @@ layout: page
 title: <font size="5">Projects (Selected)</font> 
 description: Xiaoran Sun's research projects
 ---
-###Big Data Research
+### Big Data Research
 #### Mining Sibling Interactions on Twitter <br/>
 08/2017 - present, The Pennsylvania State University <br/>
  Integrative Graduate Education and Research Training – Big Data Social Science (BDSS-IGERT) Training Program, National Science Foundation<br/>
@@ -16,7 +16,7 @@ description: Xiaoran Sun's research projects
 </ul>
    <br/>
 
-###Family & Youth Development Research
+### Family & Youth Development Research
 #### Family Relationships Project <br/>
 08/2015 - present, The Pennsylvania State University <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
@@ -37,7 +37,7 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 </ul>
    <br/>
 
-###Undergraduate Research
+### Undergraduate Research
 #### Self-Development Research Group <br/>
 09/2014 - 07/2015, Zhejiang University <br/>
 (Advisor: Qinmei Xu, Ph.D.) <br/>
@@ -46,7 +46,7 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 <li>Independently collected data from college students (N = 332) on their early corporal punishment experiences, emotion recognition, and empathy </li>
 </ul>
 
-#### <a href="https://laulab.psych.ucla.edu/">Culture and Minority Mental Health Lab</a> <br/>
+#### Culture and Minority Mental Health Lab <br/>
 06/2014 - 09/2014, UCLA <br/>
 (PI: Anna S. Lau, Ph.D.) <br/>
 <ul>

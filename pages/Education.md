@@ -1,15 +1,25 @@
 ---
 layout: page
-title: Research
-description: Blue Ham's research
+title: Education
+description: Xiaoran Sun's research
 ---
 
+##### 08/2015 - 07/2019 (expected) <br/>
+Doctoral Student, Human Development and Family Studies <br/>
+Graduate Minor in Social Data Analytics <br/>
+The Pennsylvania State University, University Park, PA <br/>
 
+##### 12/2016 <br/>
+M.S., Human Development and Family Studies <br/>
+The Pennsylvania State University, University Park, PA <br/>
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+##### 07/2015 <br/>
+B.S., Psychology <br/>
+Zhejiang University, Hangzhou, China <br/>
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+##### 08/2013 - 05/2014 <br/>
+Visiting Student, Department of Psychology <br/>
+University of Hong Kong, Pokfulam, Hong Kong, China <br/>
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
