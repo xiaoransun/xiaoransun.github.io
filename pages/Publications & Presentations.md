@@ -58,9 +58,9 @@ Padilla, J. & <b>Sun, X.,</b> (2017, November). *Links between siblings’ gende
 
 #### Poster Presentations
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2018, April). Time spent on homework among Mexican American adolescents: Contextual correlates and implications for achievement. Poster presented at the Biennial Meeting of Society on Adolescence, Minneapolis, MN. <a href="../assets/Sun culture hmwk juntos SRA 2018-4-2.pdf"> Download Poster</a><br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017, April). Sibling experiences in middle childhood: Implications for sibling differences in college graduation. Poster presented at the Biennial Meeting of Society for Research on Child Development, Austin, TX.
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017, April). Sibling experiences in middle childhood: Implications for sibling differences in college graduation. Poster presented at the Biennial Meeting of Society for Research on Child Development, Austin, TX.<a href="../assets/Sun sibling sim-diff SRCD 2017-4-3.pdf"> Download Poster</a><br/>
 Mayfield, K., <b>Sun, X.,</b> & McHale, S. M. (2016, October). Correlates of fathers’ and mothers’ coparenting in African American families. Poster presented at the special topics meeting, Babies, Boys, and Men of Color, Society for Research on Child Development, Tampa, FL. 
-<b>Sun, X.,</b> Kim, J. J., Fung, J. J., Park, H. & Lau, A. S. (2014, September). Mothers’ and children’s implicit theories of intelligence: Implications for child mental health in Hong Kong families. Poster presented at the Final Presentation Symposium for UCLA Cross-disciplinary Scholars for Science and Technology, Los Angeles, CA.
+<b>Sun, X.,</b> Kim, J. J., Fung, J. J., Park, H. & Lau, A. S. (2014, September). Mothers’ and children’s implicit theories of intelligence: Implications for child mental health in Hong Kong families. Poster presented at the Final Presentation Symposium for UCLA Cross-disciplinary Scholars for Science and Technology, Los Angeles, CA.<a href="../assets/Sun_TOI.jpg"> Download Poster</a><br/>
 <br/>
 
 
