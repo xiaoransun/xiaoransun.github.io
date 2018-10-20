@@ -1,57 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
-
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="{{ ASSET_PATH }}/css/my_custom_css.css" rel="stylesheet" type="text/css" media="all">
-
-    <!-- Le fav and touch icons - this is where you can add a little icon that will show up in the address bar next to the addrss adn in search history next to website name
-    <link rel="SHORTCUT ICON" href="{{ BASE_PATH }}/assets/me.ico"/>
-    -->
-    <!-- atom & rss feed -->
-    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-
-  </head>
-
-  <body>
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-              <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/research.html">research</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="container-narrow">
-
-      <div class="content">
-        {{ content }}
-      </div>
-
-      <hr>
-
-    </div>
-
-    {% include JB/analytics %}
-  </body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>{{ page.title }}</title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1504.82">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000ee; -webkit-text-stroke: #0000ee}
+    p.p4 {margin: 0.0px 0.0px 6.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000ee; -webkit-text-stroke: #0000ee}
+    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000ee}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none}
+    span.s3 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000ee}
+    span.s4 {-webkit-text-stroke: 0px #000000}
+    span.s5 {color: #000000}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% if page.description %}{% endif %} {% if page.keywords %}{% endif %}</span></p>
+<p class="p2"><span class="s2"><a href="file:///Users/mac/Desktop/paper/SODA501/project/github/simple_academic_website/_includes/themes/twitter/%7B%7B%20HOME_PATH%20%7D%7D">{{ site.title }}</a></span></p>
+<ul class="ul1">
+  <li class="li3"><a href="file:///Users/mac/Desktop/paper/SODA501/project/github/simple_academic_website/_includes/themes/twitter/%7B%7B%20BASE_PATH%20%7D%7D/assets/CV.pdf"><span class="s3">CV</span></a></li>
+  <li class="li2"><span class="s4"></span><span class="s2">Projects</span></li>
+  <li class="li3"><span class="s5"></span><span class="s2">Publications</span></li>
+  <li class="li3"><span class="s5"></span><span class="s2">Presentations</span></li>
+</ul>
+<p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include JB/analytics %}<span class="Apple-converted-space"> </span></span></p>
+</body>
 </html>

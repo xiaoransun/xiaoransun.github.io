@@ -1,13 +1,15 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Xiaoran Sun
+description: Xiaoran Sun, PhD candidate, Human Development and Family Studies, Pennsylvania State University. 
+keywords: Xiaoran, Sun, Human Development, Family Studies, HDFS, PhD
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Welcome to my website! I am a PhD candidate in Human Development and Family Studies at Pennsylvania State University. My graduate minor is Social Data Analytics. I started my graduate program study in August, 2015. My research interests: (1) adolescents’ and young adults’ educational achievement and career development, with a specific focus on the role of gender and family dynamics in youth development and achievement among families from different sociocultural backgrounds; (2) methodological approaches to analyzing individual development and family systems, such as growth curve analysis and dyadic/multi-member data analysis; (3) computational social science, with a focus on utilizing large-scale and big data and machine learning methods to inform developmental and family research.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+I am currently on the job market looking for post-doc positions related to big data/data mining and family/youth development.
+
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA_2018-10-18.pdf)<br/>
 
 
 ---
@@ -18,14 +20,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Xiaoran Sun<br/>
+            Email: xiaoran.sun@psu.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title=“Xiaoran Sun“ alt=“Xiaoran Sun“/></a>
         </div>
     </div>
 </div>
@@ -33,9 +35,9 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Sun_VITA_2018-10-18.pdf">cv</a></li>
+          <li><a href="https://github.com/xiaoransun">GitHub</a></li>
+          <li><a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a></li>
       </ul>
   </div>
 </div>
