@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size="5">Projects (Selected)</font> 
+title: <font size="6">Projects (Selected)</font> 
 description: Xiaoran Sun's research projects
 ---
 
