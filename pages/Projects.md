@@ -3,6 +3,7 @@ layout: page
 title: Projects (Selected)
 description: Xiaoran Sun's research projects
 ---
+<meta name="format-detection" content="telephone=no">
 ### Big Data Research
 #### Mining Sibling Interactions on Twitter <br/>
 ##### 08/2017 - present, The Pennsylvania State University <br/>

@@ -3,6 +3,7 @@ layout: page
 title: Education
 description: Xiaoran Sun's research
 ---
+<meta name="format-detection" content="telephone=no">
 
 ##### 08/2015 - 07/2019 (expected) <br/>
 Doctoral Student, Human Development and Family Studies <br/>
