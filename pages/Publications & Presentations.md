@@ -41,7 +41,7 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McH
 <b>Sun, X.,</b> (under review). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
 <br/>
 
-<b>Sun, X.,</b> (2018, June). *Sociocultural Contexts of the Work-Family Interface: A Call to Identify Resiliency Factors.* Symposium chaired at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.  
+<b>Sun, X.,</b> (2018, June). *Sociocultural Contexts of the Work-Family Interface: A Call to Identify Resiliency Factors.* Symposium chaired at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.
 <br/>
 
 <b>Sun, X.,</b> (2018, April). *The Role of Family in Adolescent and Young Adult Romantic and Sexual Relationships: A Call for Systems Research.* Symposium chaired at the Biennial Meeting of Society on Adolescence, Minneapolis, MN
