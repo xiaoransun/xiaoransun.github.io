@@ -38,28 +38,57 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McH
 ### Presentations
 
 #### Conference Symposia
-<b>Sun, X.,</b> (under review). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.<br/>
-<b>Sun, X.,</b> (2018, June). *Sociocultural Contexts of the Work-Family Interface: A Call to Identify Resiliency Factors.* Symposium chaired at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.<br/>
+<b>Sun, X.,</b> (under review). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
+<br/>
+
+<b>Sun, X.,</b> (2018, June). *Sociocultural Contexts of the Work-Family Interface: A Call to Identify Resiliency Factors.* Symposium chaired at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.  
+<br/>
+
 <b>Sun, X.,</b> (2018, April). *The Role of Family in Adolescent and Young Adult Romantic and Sexual Relationships: A Call for Systems Research.* Symposium chaired at the Biennial Meeting of Society on Adolescence, Minneapolis, MN
 <br/>
 
 #### Paper Presentations
-<b>Sun, X.,</b> & Ram, N. (under review). *Family Experiences in Adolescence Predict Young Adult Educational Attainment: A Machine Learning Approach.* Paper presentation submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.<br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review). *Outperforming Parents in Education: Personal Characteristics and Family Experiences in Adolescence as Predictors.* Paper presentation submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.<br/>
-<b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a><br/>
-<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C. (2018, June). *Perceived underemployment among African American spouses: Implications for couple relationships.* Paper presented at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.<a href="../assets/Sun WFRN underemployment 2018-6-12.pptx"> Download Slides</a><br/>
-Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2018, June). *The associations between wives’ and husbands’ work-family environment and work-family spillover: Actor-Partner Interdependence Models.* Paper presented at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.<a href="../assets/Lawson, Sun, McHale WFRN Presentation (2018).pptx"> Download Slides</a><br/>
-<b>Sun, X.,</b> & McHale, S. M. (2018, April). *Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach.* Paper presented at the Biennial Meeting of Society on Adolescence, Minneapolis, MN. <a href="../assets/Sun SRA sib-romantic 2018-3-28.pptx"> Download Slides</a><br/>
-<b>Sun, X.,</b> McHale, S. M., Crouter, A. C., & Jones, D. E. (2017, November). *Longitudinal links between work experiences and marital satisfaction among African American dual-earner couples.* Paper presented at the National Council on Family Relations. Orlando, FL.<a href="../assets/Sun NCFR work-mar APIM 2017-11-5.pptx"> Download Slides</a><br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017, November). *Early parental resources predict young adult achievement.* Paper presented at the National Council on Family Relations. Orlando, FL.<a href="../assets/Sun NCFR achievement 2017-11-5.pptx"> Download Slides</a><br/>
-Padilla, J. & <b>Sun, X.,</b> (2017, November). *Links between siblings’ gender-typed characteristics and sibling relationship qualities.* Paper presented at the National Council on Family Relations. Orlando, FL.<br/>
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2017, May). *Sleep duration predicts time spent on homework among Mexican-American adolescents: A daily diary study.* Paper presented at the Pennsylvania State University Mini-Conference on Multivariate/Longitudinal Methods. University Park, PA. <a href="../assets/Sun sleep and hmwk 2017-5-1.pptx"> Download Slides</a><br/>
+<b>Sun, X.,</b> & Ram, N. (under review). *Family Experiences in Adolescence Predict Young Adult Educational Attainment: A Machine Learning Approach.* Paper presentation submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review). *Outperforming Parents in Education: Personal Characteristics and Family Experiences in Adolescence as Predictors.* Paper presentation submitted to the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
+<br/>
+
+
+<b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a>
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C. (2018, June). *Perceived underemployment among African American spouses: Implications for couple relationships.* Paper presented at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.<a href="../assets/Sun WFRN underemployment 2018-6-12.pptx"> Download Slides</a>
+<br/>
+
+Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2018, June). *The associations between wives’ and husbands’ work-family environment and work-family spillover: Actor-Partner Interdependence Models.* Paper presented at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.<a href="../assets/Lawson, Sun, McHale WFRN Presentation (2018).pptx"> Download Slides</a>
+<br/>
+
+<b>Sun, X.,</b> & McHale, S. M. (2018, April). *Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach.* Paper presented at the Biennial Meeting of Society on Adolescence, Minneapolis, MN. <a href="../assets/Sun SRA sib-romantic 2018-3-28.pptx"> Download Slides</a>
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., Crouter, A. C., & Jones, D. E. (2017, November). *Longitudinal links between work experiences and marital satisfaction among African American dual-earner couples.* Paper presented at the National Council on Family Relations. Orlando, FL.<a href="../assets/Sun NCFR work-mar APIM 2017-11-5.pptx"> Download Slides</a>
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017, November). *Early parental resources predict young adult achievement.* Paper presented at the National Council on Family Relations. Orlando, FL.<a href="../assets/Sun NCFR achievement 2017-11-5.pptx"> Download Slides</a>
+<br/>
+
+Padilla, J. & <b>Sun, X.,</b> (2017, November). *Links between siblings’ gender-typed characteristics and sibling relationship qualities.* Paper presented at the National Council on Family Relations. Orlando, FL.
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2017, May). *Sleep duration predicts time spent on homework among Mexican-American adolescents: A daily diary study.* Paper presented at the Pennsylvania State University Mini-Conference on Multivariate/Longitudinal Methods. University Park, PA. <a href="../assets/Sun sleep and hmwk 2017-5-1.pptx"> Download Slides</a>
 <br/>
 
 #### Poster Presentations
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2018, April). Time spent on homework among Mexican American adolescents: Contextual correlates and implications for achievement. Poster presented at the Biennial Meeting of Society on Adolescence, Minneapolis, MN. <a href="../assets/Sun culture hmwk juntos SRA 2018-4-2.pdf"> Download Poster</a><br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017, April). Sibling experiences in middle childhood: Implications for sibling differences in college graduation. Poster presented at the Biennial Meeting of Society for Research on Child Development, Austin, TX.<a href="../assets/Sun sibling sim-diff SRCD 2017-4-3.pdf"> Download Poster</a><br/>
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2018, April). Time spent on homework among Mexican American adolescents: Contextual correlates and implications for achievement. Poster presented at the Biennial Meeting of Society on Adolescence, Minneapolis, MN. <a href="../assets/Sun culture hmwk juntos SRA 2018-4-2.pdf"> Download Poster</a>
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017, April). Sibling experiences in middle childhood: Implications for sibling differences in college graduation. Poster presented at the Biennial Meeting of Society for Research on Child Development, Austin, TX.<a href="../assets/Sun sibling sim-diff SRCD 2017-4-3.pdf"> Download Poster</a>
+<br/>
+
 Mayfield, K., <b>Sun, X.,</b> & McHale, S. M. (2016, October). Correlates of fathers’ and mothers’ coparenting in African American families. Poster presented at the special topics meeting, Babies, Boys, and Men of Color, Society for Research on Child Development, Tampa, FL. 
+<br/>
+
 <b>Sun, X.,</b> Kim, J. J., Fung, J. J., Park, H. & Lau, A. S. (2014, September). Mothers’ and children’s implicit theories of intelligence: Implications for child mental health in Hong Kong families. Poster presented at the Final Presentation Symposium for UCLA Cross-disciplinary Scholars for Science and Technology, Los Angeles, CA.<a href="../assets/Sun_TOI.jpg"> Download Poster</a><br/>
 <br/>
 
