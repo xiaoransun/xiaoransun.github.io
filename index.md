@@ -1,11 +1,11 @@
 ---
 layout: frontpage
 title: Xiaoran Sun
-description: Xiaoran Sun, PhD candidate, Human Development and Family Studies, Pennsylvania State University. 
+description: Xiaoran Sun, PhD candidate, Human Development and Family Studies, The Pennsylvania State University. 
 keywords: Xiaoran, Sun, Human Development, Family Studies, HDFS, PhD
 ---
 
-Welcome to my website! I am a PhD candidate in Human Development and Family Studies at Pennsylvania State University. My graduate minor is Social Data Analytics. I started my graduate program study in August, 2015 and expect to complete in August, 2019. <br/>
+Welcome to my website! I am a PhD candidate in Human Development and Family Studies at the Pennsylvania State University. My graduate minor is Social Data Analytics. I started my graduate program study in August, 2015 and expect to complete in August, 2019. <br/>
 
 My research interests: <br/>
 (1) Adolescents’ and young adults’ educational achievement and career development, with a specific focus on the role of gender and family dynamics in youth development and achievement among families from different sociocultural backgrounds; <br/>
