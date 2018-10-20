@@ -1,9 +1,19 @@
 ---
 layout: page
-title: <font size="6">Projects (Selected)</font> 
+title: <font size="5">Projects (Selected)</font> 
 description: Xiaoran Sun's research projects
 ---
 
+#### Mining Sibling Interactions on Twitter <br/>
+08/2018 - present <br/>
+ Integrative Graduate Education and Research Training – Big Data Social Science (BDSS-IGERT) Training Program, National Science Foundation<br/>
+(Mentor: Guangqing Chi, Ph.D.; Co-Mentor: Susan M. McHale, Ph.D.) <br/>
+<ul>
+<li>Project leader</li>
+<li>Analyze longitudinal data extracted from Twitter on sibling users’ interactions</li>
+<li>Mentor undergraduate research assistants</li>
+<li>Identify siblings on Twitter using tweets about the national siblings day (<a href="https://github.com/xiaoransun/Twitter_National_Sibling_Day">github repo</a>)</li>
+</ul>
 
 #### Innovative Family Prevention with Latino Siblings in Disadvantaged Settings <br/>
 08/2018 - present <br/>
