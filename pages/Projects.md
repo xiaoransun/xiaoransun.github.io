@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size="3">Projects (Selected)</font> 
+title: <font size="5">Projects (Selected)</font> 
 description: Xiaoran Sun's research projects
 ---
 
@@ -9,9 +9,10 @@ description: Xiaoran Sun's research projects
 08/2018 - present <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
 (PIs: Kimberly A. Updegraff, Ph.D. & Adriana J. Umaña-Taylor, Ph.D.; Co-Is: Susan M. McHale, Ph.D., & Mark E. Feinberg, Ph.D., Arizona State University & The Pennsylvania State University) <br/>
-
-    *   Serve as research coordinator for data collection* <br/>
-    *   Conduct data management and analyses of daily diary data*. <br/>
+<ul>
+<li>Serve as research coordinator for data collection</li>
+<li>Conduct data management and analyses of daily diary data</li>
+</ul>
 
 
 
