@@ -5,7 +5,7 @@ description: Xiaoran Sun's research projects
 ---
 ### Big Data Research
 #### Mining Sibling Interactions on Twitter <br/>
-08/2017 - present, The Pennsylvania State University <br/>
+##### 08/2017 - present, The Pennsylvania State University <br/>
  Integrative Graduate Education and Research Training – Big Data Social Science (BDSS-IGERT) Training Program, National Science Foundation<br/>
 (Mentor: Guangqing Chi, Ph.D.; Co-Mentor: Susan M. McHale, Ph.D.) <br/>
 <ul>
@@ -18,7 +18,7 @@ description: Xiaoran Sun's research projects
 
 ### Family & Youth Development Research
 #### Family Relationships Project <br/>
-08/2015 - present, The Pennsylvania State University <br/>
+##### 08/2015 - present, The Pennsylvania State University <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
 (PIs: Susan M. McHale, Ph.D. & Ann C. Crouter, Ph.D., Co-Is, Kimberly A. Updegraff, Ph.D. & Adriana J. Umaña-Taylor, Ph.D., The Pennsylvania State University and Arizona State University) <br/>
 <ul>
@@ -39,7 +39,7 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 
 ### Undergraduate Research
 #### Self-Development Research Group <br/>
-09/2014 - 07/2015, Zhejiang University <br/>
+##### 09/2014 - 07/2015, Zhejiang University <br/>
 (Advisor: Qinmei Xu, Ph.D.) <br/>
 <ul>
 <li>Bachelor’s Thesis: Early corporal punishment experiences as predictors of emotion recognition and empathy among Chinese college students</li>
@@ -47,7 +47,7 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 </ul>
 
 #### Culture and Minority Mental Health Lab <br/>
-06/2014 - 09/2014, UCLA <br/>
+##### 06/2014 - 09/2014, UCLA <br/>
 (PI: Anna S. Lau, Ph.D.) <br/>
 <ul>
 <li>Examined the associations between Chinese mothers’ and children’s implicit theories of intelligence (TOI) and how mother-child (dis)agreement on TOI relates to child adjustment </li>
