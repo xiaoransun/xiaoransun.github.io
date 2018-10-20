@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size="5">Projects (Selected)</font> 
+title: Projects (Selected)
 description: Xiaoran Sun's research projects
 ---
 ### Big Data Research
