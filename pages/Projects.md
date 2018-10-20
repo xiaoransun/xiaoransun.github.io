@@ -28,7 +28,7 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 <li>Deliver small-group workshops on methods, including actor-partner interdependence model, structural equation modeling (for dyadic data & clustered data analysis), multilevel modeling (for dyadic data analysis & mediation models), with tutorials for programming with SAS and R packages </li>
 </ul>
 #### Innovative Family Prevention with Latino Siblings in Disadvantaged Settings <br/>
-08/2018 - present, The Pennsylvania State University <br/>
+##### 08/2018 - present, The Pennsylvania State University <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
 (PIs: Kimberly A. Updegraff, Ph.D. & Adriana J. Umaña-Taylor, Ph.D.; Co-Is: Susan M. McHale, Ph.D., & Mark E. Feinberg, Ph.D., Arizona State University & The Pennsylvania State University) <br/>
 <ul>
