@@ -40,7 +40,6 @@ I am currently on the job market looking for post-doc positions related to big d
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Sun_VITA_2018-10-18.pdf">cv</a></li>
           <li><a href="https://github.com/xiaoransun">GitHub</a></li>
           <li><a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a></li>
       </ul>
