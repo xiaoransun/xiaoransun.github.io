@@ -16,7 +16,7 @@ I primarily work with Drs. <a href="https://hhd.psu.edu/contact/susan-mchale">Su
 
 I am currently on the job market looking for post-doc positions related to big data/data mining and family/youth development.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA_2018-10-18.pdf)<br/>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
 
 
 ---
