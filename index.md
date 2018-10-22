@@ -16,10 +16,11 @@ My research interests: <br/>
 
 I primarily work with Drs. <a href="https://hhd.psu.edu/contact/susan-mchale">Susan McHale</a>, <a href="https://quantdev.ssri.psu.edu/people/nur5">Nilam Ram</a>, and <a href="http://www.landdevelopability.org/chi/">Guangqing Chi</a> at Penn State, and Dr. <a href="https://thesanfordschool.asu.edu/content/kimberly-updegraff">Kimberly Updegraff</a> at Arizona State University.
 
-I am currently on the job market looking for post-doc positions related to big data/data mining and family/youth development.
+<b>I am currently on the job market looking for post-doc positions related to big data/data mining and family/youth development.</b>
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
 
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5-eJkGrq42VwM2xj7-DGGzqsNVu4VLLwzZvSKSJTD8x98DYetkvbhiBxHvERxwcbyIfwMk6znRr3vEoTGnDfmaltG3CmVBqL18ikdFDJmDblWEkB4&user=5-ZTRKwAAAAJ">Google Scholar Profile</a>
 
 ---
 
