@@ -7,7 +7,7 @@ keywords: Xiaoran, Sun, Human Development, Family Studies, HDFS, PhD
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am a PhD candidate in Human Development and Family Studies at the Pennsylvania State University. My graduate minor is Social Data Analytics, under the traineeship in Big Data Social Science (Grant DGE-1144860) funded by the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1144860">National Science Foundation</a>. I started my graduate program study in August, 2015 and expect to obtain my Ph.D. in Summer, 2019. <br/>
+Welcome to my website! I am a PhD candidate in Human Development and Family Studies at the Pennsylvania State University. My graduate minor is Social Data Analytics, under the traineeship in Big Data Social Science-IGRERT (Grant DGE-1144860) funded by the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1144860">National Science Foundation</a>. I started my graduate program study in August, 2015 and expect to obtain my Ph.D. in Summer, 2019. <br/>
 
 My research interests: <br/>
 (1) Adolescents’ and young adults’ educational achievement and career development, with a specific focus on the role of gender and family dynamics in youth development and achievement among families from different sociocultural backgrounds; <br/>
@@ -16,7 +16,7 @@ My research interests: <br/>
 
 I primarily work with Drs. <a href="https://hhd.psu.edu/contact/susan-mchale">Susan McHale</a>, <a href="https://quantdev.ssri.psu.edu/people/nur5">Nilam Ram</a>, and <a href="http://www.landdevelopability.org/chi/">Guangqing Chi</a> at Penn State, and Dr. <a href="https://thesanfordschool.asu.edu/content/kimberly-updegraff">Kimberly Updegraff</a> at Arizona State University.
 
-<b>I am currently on the job market looking for post-doc positions related to big data/data mining and family/youth development.</b>
+
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
 
