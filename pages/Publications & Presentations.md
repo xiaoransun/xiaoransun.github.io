@@ -10,11 +10,14 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xiaoran.sun@psu.edu*<br/>
   <br/>
 #### Manuscripts Published
+<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(in press). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*.
+<br/>
+
+Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference. *Journal of Family Psychology*, online release.
+<br/>
+
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2018). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development.* <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
 (Media mentions: <a href="https://www.nichd.nih.gov/newsroom/releases/062618-siblings">*NICHD*</a>, <a href="https://www.sciencedaily.com/releases/2018/04/180417115808.htm">*ScienceDaily*</a>, <a href="https://news.psu.edu/story/524771/2018/06/18/research/childhood-sibling-dynamics-may-predict-differences-college">*Penn State News*</a>, <a href="https://www.tun.com/blog/sibling-relationships-predict-educational-success/">*The University Network*</a>, <a href="https://medicalresearch.com/author-interviews/sibling-closeness-in-middle-school-predicts-differences-in-college-graduation/42678/">*MedicalResearch*</a>, <a href="http://www.zhishifenzi.com/depth/depth/4726.html">*知识分子*</a>)
-  <br/>
-
-Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (in press). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference Manuscript in press by *Journal of Family Psychology*.
   <br/>
 
 <b>Sun, X.,</b> McHale, S. M., Crouter, A. C., & Jones, D. E. (2017). Longitudinal links between work experiences and marital satisfaction in African American dual-earner couples. *Journal of Family Psychology, 31,* 1029-1039. <a href="http://dx.doi.org/10.1037/fam0000381">http://dx.doi.org/10.1037/fam0000381</a>
@@ -24,14 +27,12 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (in press). Family-friendly for h
   <br/>
 
 #### Chapter Published
-
 <b>Sun, X. </b>& McMillan, C. (2018). The interplay between families and technology: Directions for future investigation. In J. Van Hook, S. McHale, & V. King (Eds). <a href="https://www.springer.com/fr/book/9783319955391"> *Families and technology,*</a> New York: Springer. (Authors have equal contributions)
   <br/>
 
 #### Manuscripts Under Review
 *For titles, please see my <a href="https://xiaoransun.github.io/assets/Sun_VITA.pdf">CV</a>*
   <br/>
-<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C. (under review).<br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review).<br/>
 Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McHale, S. M. (under review).
 <br/>
@@ -40,9 +41,6 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McH
 ### Presentations
 
 #### Talks
-<b>Sun, X.</b> (2019, February). *Family Experiences in Adolescence Predict Young Adult Educational Attainment: A Machine Learning Approach.* Invited talk at Penn State QuantDev Brown Bag. University Park, PA.
-<br/>
-
 <b>Sun, X.</b> (2018, December). *Sibling Dynamics on Social Media: Applying Big Data to Family Studies.* Invited talk at College of Education, Zhejiang University, Hangzhou, China.
 <br/>
 
