@@ -40,12 +40,12 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McH
 
 ### Presentations
 
-#### Talks
+#### Talk
 <b>Sun, X.</b> (2018, December). *Sibling Dynamics on Social Media: Applying Big Data to Family Studies.* Invited talk at College of Education, Zhejiang University, Hangzhou, China.
 <br/>
 
 #### Conference Symposia
-<b>Sun, X.</b> (2019, March). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium to be chaired at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
+<b>Sun, X.</b> (2019, March). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium chaired at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
 <br/>
 
 <b>Sun, X.</b> (2018, June). *Sociocultural Contexts of the Work-Family Interface: A Call to Identify Resiliency Factors.* Symposium chaired at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.
@@ -55,7 +55,7 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McH
 <br/>
 
 #### Paper Presentations
-<b>Sun, X.,</b> & Ram, N. (2019, March). *Family Experiences in Adolescence Predict Young Adult Educational Attainment: A Machine Learning Approach.* Paper to be presented at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
+<b>Sun, X.,</b> & Ram, N. (2019, March). *Family Experiences in Adolescence Predict Young Adult Educational Attainment: A Machine Learning Approach.* Paper presented at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
 <br/>
 
 <b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a>
