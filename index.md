@@ -7,12 +7,7 @@ gtag('js', new Date());
 
 gtag('config', 'UA-136688043-1');
 </script></head>
----
-layout: frontpage
-title: Xiaoran Sun
-description: Xiaoran Sun, PhD candidate, Human Development and Family Studies, The Pennsylvania State University. 
-keywords: Xiaoran, Sun, Human Development, Family Studies, HDFS, PhD
----
+
 ### Xiaoran Sun (孙潇然)
 
 
