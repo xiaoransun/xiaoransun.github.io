@@ -10,10 +10,10 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xiaoran.sun@psu.edu*<br/>
   <br/>
 #### Manuscripts Published
-<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(in press). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*.
+<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2019). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*, online release. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/>
 
-Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference. *Journal of Family Psychology*, online release.
+Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference. *Journal of Family Psychology*, online release. <a href="https://doi.org/10.1037/fam0000506">https://doi.org/10.1037/fam0000506</a>
 <br/>
 
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2018). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development.* <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
@@ -34,7 +34,8 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 *For titles, please see my <a href="https://xiaoransun.github.io/assets/Sun_VITA.pdf">CV</a>*
   <br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review).<br/>
-Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Skinner, O. D., & McHale, S. M. (under review).
+Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (under review). <br/>
+Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b>, Brick, T. R., Skinner, O. D., & McHale, S. M. (under review).
 <br/>
 
 
