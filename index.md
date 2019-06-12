@@ -13,15 +13,12 @@ gtag('config', 'UA-136688043-1');
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am a PhD candidate in Human Development and Family Studies at the Pennsylvania State University. My graduate minor is Social Data Analytics, under the traineeship in Big Data Social Science-IGRERT (Grant DGE-1144860) funded by the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1144860">National Science Foundation</a>. I started my graduate program study in August, 2015 and expect to obtain my Ph.D. in Summer, 2019. <br/>
+Welcome to my website! I recently obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University, with a graduate minor in Social Data Analytics. I am currently wrapping up my work at Penn State with Drs. <a href="https://hhd.psu.edu/contact/susan-mchale">Susan McHale</a> and <a href="http://www.landdevelopability.org/chi/">Guangqing Chi</a>, and teaching a summer session undergraduate class, HDFS 129 (Introduction to Human Development & Family Studies). I will start to work as a postdoctoral fellow at Stanford University in <a href="http://screenomics.stanford.edu/"> the screenomics lab </a> in September, 2019, and will be affiliated with the Department of Pediatrics at the School of Medicine. <br/>
 
 My research interests: <br/>
 (1) Adolescents’ and young adults’ educational achievement and career development, with a specific focus on the role of gender and family dynamics in youth development and achievement among families from different sociocultural backgrounds; <br/>
 (2) Methodological approaches to analyzing family systems, especially dyadic data analysis; <br/>
 (3) Computational social science, with a focus on utilizing large-scale and big data and machine learning methods to inform developmental and family research. 
-
-I primarily work with Drs. <a href="https://hhd.psu.edu/contact/susan-mchale">Susan McHale</a>, <a href="https://quantdev.ssri.psu.edu/people/nur5">Nilam Ram</a>, and <a href="http://www.landdevelopability.org/chi/">Guangqing Chi</a> at Penn State, and Dr. <a href="https://thesanfordschool.asu.edu/content/kimberly-updegraff">Kimberly Updegraff</a> at Arizona State University.
-
 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
