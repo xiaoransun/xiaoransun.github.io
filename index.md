@@ -6,7 +6,9 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
 gtag('config', 'UA-136688043-1');
-</script></head>
+</script>
+    <title> Xiaoran Sun (孙潇然), Ph.D. </title>
+</head>
 
 ### Xiaoran Sun (孙潇然)
 
