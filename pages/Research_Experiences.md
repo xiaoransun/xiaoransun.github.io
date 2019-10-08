@@ -6,16 +6,14 @@ description: Xiaoran Sun's research projects
 <meta name="format-detection" content="telephone=no">
 
 ### Postdoctoral Experiences <br/>
-#### The Sreenomics Lab <br/>
+#### <a href="http://screenomics.stanford.edu/">The Screenomics Lab</a> <br/>
 ##### 09/2019 - present, Stanford University <br/>
-http://screenomics.stanford.edu/
 <ul>
 <li>Analyses of high-intensity screenshots data (5-second interval over weeks and months)</li>
 <li>Project and data management (Google Cloud Platform; Stanford Nero Cluster)</li>
 </ul>
-#### The Solutions Science Lab <br/>
+#### <a href="https://med.stanford.edu/genpeds/research/solutions-science-lab.html">Solutions Science Lab</a> <br/>
 ##### 09/2019 - present, Stanford School of Medicine <br/>
-https://med.stanford.edu/genpeds/research/solutions-science-lab.html
 <ul>
 <li>Analyze longitudinal data for family media environments and youth health outcomes </li>
 </ul>
