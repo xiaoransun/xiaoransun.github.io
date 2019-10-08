@@ -5,7 +5,7 @@ description: Xiaoran Sun's research projects
 ---
 <meta name="format-detection" content="telephone=no">
 
-### Postdoctoral Experiences <br/>
+### Postdoctoral Research <br/>
 #### <a href="http://screenomics.stanford.edu/">The Screenomics Lab</a> <br/>
 ##### 09/2019 - present, Stanford University <br/>
 <ul>
@@ -18,7 +18,7 @@ description: Xiaoran Sun's research projects
 <li>Analyze longitudinal data for family media environments and youth health outcomes </li>
 </ul>
 
-### Predoctoral Experiences <br/>
+### Predoctoral Research <br/>
 #### Family Relationships Project <br/>
 ##### 08/2015 - 08/2019, The Pennsylvania State University <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
@@ -49,7 +49,7 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 </ul>
 <br/>
 
-### Undergraduate xperiences (selected) <br/>
+### Undergraduate Research (selected) <br/>
 #### Self-Development Research Group <br/>
 ##### 09/2014 - 07/2015, Zhejiang University <br/>
 (Advisor: Qinmei Xu, Ph.D.) <br/>
