@@ -1,25 +1,26 @@
 ---
 layout: page
-title: Projects (Selected)
+title: Research Experiences
 description: Xiaoran Sun's research projects
 ---
 <meta name="format-detection" content="telephone=no">
-### Big Data Research
-#### Mining Sibling Interactions on Twitter <br/>
-##### 08/2017 - present, The Pennsylvania State University <br/>
- Integrative Graduate Education and Research Training – Big Data Social Science (BDSS-IGERT) Training Program, National Science Foundation<br/>
-(Mentor: Guangqing Chi, Ph.D.; Co-Mentor: Susan M. McHale, Ph.D.) <br/>
-<ul>
-<li>Project leader</li>
-<li>Analyze longitudinal data extracted from Twitter on sibling users’ interactions</li>
-<li>Mentor undergraduate research assistants</li>
-<li>Identify siblings on Twitter using tweets about the national siblings day (<a href="https://github.com/xiaoransun/Twitter_National_Sibling_Day">github repo</a>)</li>
-</ul>
-   <br/>
 
-### Family & Youth Development Research
+#### The Sreenomics Lab <br/>
+##### 09/2019 - present, Stanford University <br/>
+http://screenomics.stanford.edu/
+<ul>
+<li>Analyses of high-intensity screenshots data (5-second interval over weeks and months)</li>
+<li>Project and data management (Google Cloud Platform; Stanford Nero Cluster)</li>
+</ul>
+#### The Solutions Science Lab <br/>
+##### 09/2019 - present, Stanford School of Medicine <br/>
+https://med.stanford.edu/genpeds/research/solutions-science-lab.html
+<ul>
+<li>Analyze longitudinal data for family media environments and youth health outcomes </li>
+</ul>
+
 #### Family Relationships Project <br/>
-##### 08/2015 - present, The Pennsylvania State University <br/>
+##### 08/2015 - 08/2019, The Pennsylvania State University <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
 (PIs: Susan M. McHale, Ph.D. & Ann C. Crouter, Ph.D.; Co-Is, Kimberly A. Updegraff, Ph.D. & Adriana J. Umaña-Taylor, Ph.D., The Pennsylvania State University & Arizona State University) <br/>
 <ul>
@@ -28,24 +29,26 @@ Funded by the Eunice Kennedy Shriver National Institute of Child Health and Huma
 <li>Consult on statistical analyses</li>
 <li>Deliver small-group workshops on methods, including actor-partner interdependence model, structural equation modeling (for dyadic data & clustered data analysis), multilevel modeling (for dyadic data analysis & mediation models), with tutorials for programming with SAS and R packages </li>
 </ul>
-#### The *Juntos* Project <br/>
-##### 08/2015 - present, The Pennsylvania State University <br/>
-Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
-(PIs: Kimberly A. Updegraff, Ph.D. & Adriana J. Umaña-Taylor, Ph.D.; Co-Is: Susan M. McHale, Ph.D. & Ann C. Crouter, Ph.D., Arizona State University & The Pennsylvania State University) <br/>
-<ul>
-<li>Analyze longitudinal data for family dynamics and youth development in a Mexican-American sample</li>
-</ul>
 #### Innovative Family Prevention with Latino Siblings in Disadvantaged Settings <br/>
-##### 08/2018 - present, The Pennsylvania State University <br/>
+##### 08/2018 - 08/2019, The Pennsylvania State University <br/>
 Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development <br/>
 (PIs: Kimberly A. Updegraff, Ph.D. & Adriana J. Umaña-Taylor, Ph.D.; Co-Is: Susan M. McHale, Ph.D., & Mark E. Feinberg, Ph.D., Arizona State University & The Pennsylvania State University) <br/>
 <ul>
-<li>Serve as research coordinator for data collection</li>
-<li>Conduct data management and analyses of daily diary data</li>
+<li>Serve as research coordinator for data collection at Penn State and Arizona State University</li>
+<li>Conduct data management and analyses of daily diary data collected from Latino siblings in milddle childhood and early adolescence</li>
 </ul>
-   <br/>
+#### Mining Sibling Interactions on Twitter <br/>
+##### 08/2017 - 08/2017, The Pennsylvania State University <br/>
+ Integrative Graduate Education and Research Training – Big Data Social Science (BDSS-IGERT) Training Program, National Science Foundation<br/>
+(Mentor: Guangqing Chi, Ph.D.; Co-Mentor: Susan M. McHale, Ph.D.) <br/>
+<ul>
+<li>Project leader</li>
+<li>Analyze longitudinal data extracted from Twitter on sibling users’ interactions</li>
+<li>Mentor undergraduate research assistants</li>
+<li>Identify siblings on Twitter using tweets about the national siblings day (<a href="https://github.com/xiaoransun/Twitter_National_Sibling_Day">github repo</a>)</li>
+</ul>
+<br/>
 
-### Undergraduate Research
 #### Self-Development Research Group <br/>
 ##### 09/2014 - 07/2015, Zhejiang University <br/>
 (Advisor: Qinmei Xu, Ph.D.) <br/>
