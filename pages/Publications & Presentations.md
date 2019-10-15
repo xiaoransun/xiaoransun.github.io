@@ -20,6 +20,9 @@ description: Xiaoran Sun's Publications & Presentations
 Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference. *Journal of Family Psychology, 33*, 444-452. <a href="https://doi.org/10.1037/fam0000506">https://doi.org/10.1037/fam0000506</a>
 <br/>
 
+Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (2019). Longitudinal linkages between expressivity and parent- youth relationships in African American families: A dyadic approach. *Journal of Child and Family Studies*. [online release]. <a href="https://link.springer.com/article/10.1007/s10826-019-01578-3">https://link.springer.com/article/10.1007/s10826-019-01578-3</a>
+<br/>
+
 Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner, O. D., & McHale, S. M. (2019). Prospective associations between depressive symptoms and marital satisfaction in Black couples. Manuscript in press by *Journal of Family Psychology*.
 <br/>
 
@@ -40,7 +43,6 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner
 <b>Sun, X.</b> & Ram, N. (under review).<br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review). <br/>
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (under review). <br/>
-Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (under review). <br/>
 
 ### Presentations
 
