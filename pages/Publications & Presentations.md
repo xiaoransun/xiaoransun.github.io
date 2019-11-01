@@ -10,6 +10,8 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xiaoran.sun@psu.edu*<br/>
   <br/>
 #### Manuscripts Published
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (in press). Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach. Manuscript in press by *Journal of Adolescenc*.
+
 <b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2019). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*, online release. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/>
 
@@ -39,7 +41,6 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner
 #### Manuscripts Under Review
 *For titles, please see my <a href="https://xiaoransun.github.io/assets/Sun_VITA.pdf">CV</a>*
   <br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review).<br/>
 <b>Sun, X.</b> & Ram, N. (under review).<br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review). <br/>
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (under review). <br/>
