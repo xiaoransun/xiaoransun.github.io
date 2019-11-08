@@ -7,10 +7,11 @@ description: Xiaoran Sun's Publications & Presentations
 
 
 ### Publications
-*Email me to get full manuscripts! xiaoran.sun@psu.edu*<br/>
+*Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
   <br/>
 #### Manuscripts Published
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (in press). Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach. Manuscript in press by *Journal of Adolescence*.
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (in press). Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach. Manuscript in press by *Journal of Adolescence*, online release. <a href="https://www.sciencedirect.com/science/article/pii/S0140197119301824">https://doi.org/10.1016/j.adolescence.2019.10.014</a>
+<br/>
 
 <b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2019). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*, online release. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/>
