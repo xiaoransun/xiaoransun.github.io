@@ -5,8 +5,8 @@ description: Xiaoran Sun's research
 ---
 <meta name="format-detection" content="telephone=no">
 
-##### 08/2015 - 07/2019 (expected) <br/>
-Doctoral Student, Human Development and Family Studies <br/>
+##### 08/2015 - 08/2019 <br/>
+Ph.D., Human Development and Family Studies <br/>
 Graduate Minor in Social Data Analytics <br/>
 The Pennsylvania State University, University Park, PA <br/>
 <b>Dissertation: </b> *Family and youth career development: Towards a better understanding of the mechanisms.* (Chair: Susan M. McHale, Ph.D., Co-chair: Nilam Ram, Ph.D.)<br/> 

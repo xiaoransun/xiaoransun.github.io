@@ -10,15 +10,15 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
   <br/>
 #### Manuscripts Published
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach. Manuscript in press by *Journal of Adolescence*, online release. <a href="https://www.sciencedirect.com/science/article/pii/S0140197119301824">https://doi.org/10.1016/j.adolescence.2019.10.014</a>
-<br/>
-
-<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2019). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*, online release. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
+<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2019). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*, online release. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/>
 
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
 (Media mentions: <a href="https://www.nichd.nih.gov/newsroom/releases/062618-siblings">*NICHD*</a>, <a href="https://www.sciencedaily.com/releases/2018/04/180417115808.htm">*ScienceDaily*</a>, <a href="https://news.psu.edu/story/524771/2018/06/18/research/childhood-sibling-dynamics-may-predict-differences-college">*Penn State News*</a>, <a href="https://www.tun.com/blog/sibling-relationships-predict-educational-success/">*The University Network*</a>, <a href="https://medicalresearch.com/author-interviews/sibling-closeness-in-middle-school-predicts-differences-in-college-graduation/42678/">*MedicalResearch*</a>, <a href="http://www.zhishifenzi.com/depth/depth/4726.html">*知识分子*</a>)
   <br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling dynamics in adolescence predict young adult orientations to couple relationships: A dyadic approach. Manuscript in press by *Journal of Adolescence, 77*, 129-138. <a href="https://www.sciencedirect.com/science/article/pii/S0140197119301824">https://doi.org/10.1016/j.adolescence.2019.10.014</a>
+<br/>
 
 Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference. *Journal of Family Psychology, 33*, 444-452. <a href="https://doi.org/10.1037/fam0000506">https://doi.org/10.1037/fam0000506</a>
 <br/>
@@ -53,6 +53,9 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner
 <br/>
 
 #### Conference Symposia
+<b>Sun, X.</b> (2019, November). *How Families Help Youth to Flourish: The Role of Family Dynamics in Adolescent and Young Adult Positive Well-Being.* Symposium chaired at the National Council on Family Relations, Fort Worth, TX.
+<br/>
+
 <b>Sun, X.</b> (2019, March). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium chaired at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
 <br/>
 
@@ -63,6 +66,12 @@ Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner
 <br/>
 
 #### Paper Presentations
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019, November). *Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment.* Paper presented at the National Council on Family Relations, Fort Worth, TX.
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2019, November). *Implications of Mexican-origin youth’s work experiences for relationships with fathers.* Paper presented at the National Council on Family Relations, Fort Worth, TX.
+<br/>
+
 <b>Sun, X.,</b> & Ram, N. (2019, March). *Family Experiences in Adolescence Predict Young Adult Educational Attainment: A Machine Learning Approach.* Paper presented at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
 <br/>
 
