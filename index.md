@@ -14,7 +14,9 @@ gtag('config', 'UA-136688043-1');
 
 
 Welcome to my website! I am a postdoctoral scholar at Stanford University, affiliated with the Department of Pediatrics and Department of Communication, and in the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholar Program</a>. <br/>
+
 My current work is mainly involved with <a href="http://screenomics.stanford.edu/">The Screenomics Lab</a> and the <a href="https://med.stanford.edu/genpeds/research/solutions-science-lab.html">Solutions Science Lab</a>. <br/>
+
 I obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. 
 
 My research involves: <br/>

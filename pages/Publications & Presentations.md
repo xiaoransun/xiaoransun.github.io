@@ -13,7 +13,7 @@ description: Xiaoran Sun's Publications & Presentations
 <b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2020). Perceived underemployment and couple relationships among African American parents: A dyadic approach. *Cultural Diversity and Ethnic Minority Psychology, 26*, 82-92. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/> (Media mentions: <a href="https://www.apa.org/pubs/highlights/spotlight/issue-173">*APA Spotlight*</a>, <a href="https://news.psu.edu/story/607964/2020/02/12/research/underemployment-affects-african-american-parents-and-their">*Penn State News*</a>)<br/>
 
-Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (2020). Longitudinal linkages between expressivity and parent- youth relationships in African American families: A dyadic approach. *Journal of Child and Family Studies, 29*, 442-454. [online release]. <a href="https://doi.org/10.1007/s10826-019-01578-3">https://doi.org/10.1007/s10826-019-01578-3</a>
+Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (2020). Longitudinal linkages between expressivity and parent- youth relationships in African American families: A dyadic approach. *Journal of Child and Family Studies, 29*, 442-454. <a href="https://doi.org/10.1007/s10826-019-01578-3">https://doi.org/10.1007/s10826-019-01578-3</a>
 <br/>
 
 Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner, O. D., & McHale, S. M. (2020). Prospective associations between depressive symptoms and marital satisfaction in Black couples. Manuscript in press by *Journal of Family Psychology, 34*, 12-23. <a href="https://doi.org/10.1037/fam0000573">https://doi.org/10.1037/fam0000573</a>
