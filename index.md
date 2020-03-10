@@ -13,12 +13,13 @@ gtag('config', 'UA-136688043-1');
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am a postdoctoral scholar at Stanford University, affiliated with the Department of Pediatrics and Department of Communication. My current work is mainly involved with <a href="http://screenomics.stanford.edu/">The Screenomics Lab</a> and the <a href="https://med.stanford.edu/genpeds/research/solutions-science-lab.html">Solutions Science Lab</a>. <br/>
+Welcome to my website! I am a postdoctoral scholar at Stanford University, affiliated with the Department of Pediatrics and Department of Communication, and in the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholar Program</a>. <br/>
+My current work is mainly involved with <a href="http://screenomics.stanford.edu/">The Screenomics Lab</a> and the <a href="https://med.stanford.edu/genpeds/research/solutions-science-lab.html">Solutions Science Lab</a>. <br/>
 I obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. 
 
 My research involves: <br/>
-(1) Computational social science, with a focus on utilizing large-scale and big data and machine learning methods to inform developmental and family research;<br/>
-(2) Family dynamics and adolescents' and young adults' positive development (especially educational achievement and career development); for my postdoctoral work, I have a specific focus on the role of digital technology in family dynamics and its its implications for adolescent and young adult well-being;<br/>
+(1) Family dynamics and adolescents' and young adults' positive development; for my postdoctoral work, I have a specific focus on the role of digital technology in family dynamics and its its implications for adolescent and young adult well-being;<br/>
+(2) Computational social science, with a focus on utilizing large-scale and big data and machine learning methods to inform developmental and family research;<br/>
 (3) Methodological approaches to analyzing dyadic family relationships, including parent-youth, sibling, and inter-parental relationships. <br/>
 
 

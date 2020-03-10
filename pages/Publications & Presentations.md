@@ -10,10 +10,16 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
   <br/>
 #### Manuscripts Published
-<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2019). Perceived underemployment and couple relationships among African American parents: A dyadic approach. Manuscript in press by *Cultural Diversity and Ethnic Minority Psychology*, online release. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
+<b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2020). Perceived underemployment and couple relationships among African American parents: A dyadic approach. *Cultural Diversity and Ethnic Minority Psychology, 26*, 82-92. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
+<br/> (Media mentions: <a href="https://www.apa.org/pubs/highlights/spotlight/issue-173">*APA Spotlight*</a>, <a href="https://news.psu.edu/story/607964/2020/02/12/research/underemployment-affects-african-american-parents-and-their">*Penn State News*</a>)<br/>
+
+Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (2020). Longitudinal linkages between expressivity and parent- youth relationships in African American families: A dyadic approach. *Journal of Child and Family Studies, 29*, 442-454. [online release]. <a href="https://doi.org/10.1007/s10826-019-01578-3">https://doi.org/10.1007/s10826-019-01578-3</a>
 <br/>
 
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
+Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner, O. D., & McHale, S. M. (2020). Prospective associations between depressive symptoms and marital satisfaction in Black couples. Manuscript in press by *Journal of Family Psychology, 34*, 12-23. <a href="https://doi.org/10.1037/fam0000573">https://doi.org/10.1037/fam0000573</a>
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
 (Media mentions: <a href="https://www.nichd.nih.gov/newsroom/releases/062618-siblings">*NICHD*</a>, <a href="https://www.sciencedaily.com/releases/2018/04/180417115808.htm">*ScienceDaily*</a>, <a href="https://news.psu.edu/story/524771/2018/06/18/research/childhood-sibling-dynamics-may-predict-differences-college">*Penn State News*</a>, <a href="https://www.tun.com/blog/sibling-relationships-predict-educational-success/">*The University Network*</a>, <a href="https://medicalresearch.com/author-interviews/sibling-closeness-in-middle-school-predicts-differences-in-college-graduation/42678/">*MedicalResearch*</a>, <a href="http://www.zhishifenzi.com/depth/depth/4726.html">*知识分子*</a>)
   <br/>
 
@@ -21,12 +27,6 @@ description: Xiaoran Sun's Publications & Presentations
 <br/>
 
 Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, longer hours for him: Actor-partner model linking work-family environment to work-family interference. *Journal of Family Psychology, 33*, 444-452. <a href="https://doi.org/10.1037/fam0000506">https://doi.org/10.1037/fam0000506</a>
-<br/>
-
-Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (2019). Longitudinal linkages between expressivity and parent- youth relationships in African American families: A dyadic approach. *Journal of Child and Family Studies*. [online release]. <a href="https://link.springer.com/article/10.1007/s10826-019-01578-3">https://link.springer.com/article/10.1007/s10826-019-01578-3</a>
-<br/>
-
-Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner, O. D., & McHale, S. M. (2019). Prospective associations between depressive symptoms and marital satisfaction in Black couples. Manuscript in press by *Journal of Family Psychology*.
 <br/>
 
 <b>Sun, X.,</b> McHale, S. M., Crouter, A. C., & Jones, D. E. (2017). Longitudinal links between work experiences and marital satisfaction in African American dual-earner couples. *Journal of Family Psychology, 31,* 1029-1039. <a href="http://dx.doi.org/10.1037/fam0000381">http://dx.doi.org/10.1037/fam0000381</a>
