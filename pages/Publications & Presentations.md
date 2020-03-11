@@ -16,7 +16,7 @@ description: Xiaoran Sun's Publications & Presentations
 Skinner, O. D., <b>Sun, X.,</b> & McHale S. M. (2020). Longitudinal linkages between expressivity and parent- youth relationships in African American families: A dyadic approach. *Journal of Child and Family Studies, 29*, 442-454. <a href="https://doi.org/10.1007/s10826-019-01578-3">https://doi.org/10.1007/s10826-019-01578-3</a>
 <br/>
 
-Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner, O. D., & McHale, S. M. (2020). Prospective associations between depressive symptoms and marital satisfaction in Black couples. Manuscript in press by *Journal of Family Psychology, 34*, 12-23. <a href="https://doi.org/10.1037/fam0000573">https://doi.org/10.1037/fam0000573</a>
+Jenkins, A. I. C., Fredman, S. J., Le, Y., <b>Sun, X.,</b> Brick, T. R., Skinner, O. D., & McHale, S. M. (2020). Prospective associations between depressive symptoms and marital satisfaction in Black couples. *Journal of Family Psychology, 34*, 12-23. <a href="https://doi.org/10.1037/fam0000573">https://doi.org/10.1037/fam0000573</a>
 <br/>
 
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
