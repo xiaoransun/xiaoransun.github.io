@@ -10,6 +10,9 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
   <br/>
 #### Manuscripts Published
+<b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a>
+<br/>
+
 <b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2020). Perceived underemployment and couple relationships among African American parents: A dyadic approach. *Cultural Diversity and Ethnic Minority Psychology, 26*, 82-92. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/> (Media mentions: <a href="https://www.apa.org/pubs/highlights/spotlight/issue-173">*APA Spotlight*</a>, <a href="https://news.psu.edu/story/607964/2020/02/12/research/underemployment-affects-african-american-parents-and-their">*Penn State News*</a>)<br/>
 
@@ -42,7 +45,6 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 #### Manuscripts Under Review
 *For titles, please see my <a href="https://xiaoransun.github.io/assets/Sun_VITA.pdf">CV</a>*
   <br/>
-<b>Sun, X.</b> & Ram, N. (under review).<br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review). <br/>
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (under review). <br/>
 
@@ -52,7 +54,13 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <b>Sun, X.</b> (2018, December). *Sibling Dynamics on Social Media: Applying Big Data to Family Studies.* Invited talk at College of Education, Zhejiang University, Hangzhou, China.
 <br/>
 
-#### Conference Symposia
+#### Conference Symposia & Workshop
+<b>Sun, X.</b>  (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.
+<br/>
+
+<b>Sun, X.</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.
+<br/>
+
 <b>Sun, X.</b> (2019, November). *How Families Help Youth to Flourish: The Role of Family Dynamics in Adolescent and Young Adult Positive Well-Being.* Symposium chaired at the National Council on Family Relations, Fort Worth, TX.
 <br/>
 
@@ -66,6 +74,12 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <br/>
 
 #### Paper Presentations
+<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference.
+<br/>
+
+<b>Sun, X.,</b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference.
+<br/>
+
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019, November). *Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment.* Paper presented at the National Council on Family Relations, Fort Worth, TX.
 <br/>
 

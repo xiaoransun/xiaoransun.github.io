@@ -49,10 +49,10 @@ Computational social science <br/>
 Innovative statistical and computational methods for studying family and youth development<br/>
 <br/>
 <br/>
-#### My most recent publication (as of July 2020)
+#### My Most Recent Publication (as of July 2020)
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 <br/>
-#### Upcoming talks & presentations
+#### Upcoming Talks & Presentations
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.<br/>
@@ -60,9 +60,8 @@ Innovative statistical and computational methods for studying family and youth d
 <br/>
 
 
-
-#### My research
-##### (1) Family dynamics and adolescents' and young adults' well-being.
+#### My Research
+##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being.
 My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
 
 <b>Featured work:</b><br/>
@@ -76,8 +75,9 @@ My work contributes to the understanding of *long-term implications of early fam
   <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2017). Maternal and paternal resources across childhood and adolescence as predictors of young adult achievement. *Journal of Vocational Behavior, 100,* 111-123. <br/> <a href="https://www.ncbi.nlm.nih.gov/pubmed/28983122"> Free full text from NIH</a>
   <br/>
 
-##### (2) Big data and family research: Mining social media data and analyzing large-scale data with machine learning.
-My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big Data Social Science-IGERT program</a> ignited my interest in research at the intersection of data science and social science, especially leveraging the power of big data and machine learning algorithms for new discoveries about family dynamics and youth development. One direction I have pursued is *using data and innovative methods to study the role of technology in family processes*. I also led a research project using Twitter data (starting with ~4.8 million tweets) to study *sibling interactions on social media*, a project that included training and supervising two undergraduate and one Masters student research assistants. This work developed into another project that involves developing techniques to identify sibling users on Twitter (<a href="https://github.com/xiaoransun/Twitter_National_Sibling_Day">GitHub repo</a>). Observing that few family and child development scholars have recognized *the innovations that machine learning algorithms can bring to analysis of large-scale data*, I organized a symposium on this topic at an international conference for research on child development. Further, I led in developing a paper that *uses machine learning to develop a paradigm for data-based cross-study synthesis*; this paper examines the predictive value of high-dimensional family experiences in youth achievement and identify key predictors for young adult educational attainment. <br/>
+##### (2) Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning.
+My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big Data Social Science-IGERT program</a> ignited my interest in research at the intersection of data science and social science, especially leveraging the power of big data and machine learning algorithms for new discoveries about family dynamics and youth development. One direction I have pursued is *using data and innovative methods to study the role of technology in family processes*. I also led a research project using Twitter data (starting with ~4.8 million tweets) to study *sibling interactions on social media*, a project that included training and supervising two undergraduate and one Masters student research assistants. This work developed into another project that involves developing techniques to identify sibling users on Twitter (<a href="https://github.com/xiaoransun/Twitter_National_Sibling_Day">GitHub repo</a>). Observing that few family and child development scholars have recognized *the innovations that machine learning algorithms can bring to analysis of large-scale data*, I organized a symposium on this topic at an international conference for research on child development. Further, I led in developing a paper that *uses machine learning to develop a paradigm for data-based cross-study synthesis*; this paper examines the predictive value of high-dimensional family experiences in youth achievement and identify key predictors for young adult educational attainment. 
+<br/>
 
 <b>Featured work:</b><br/>
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
@@ -85,8 +85,10 @@ My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big
 <b>Sun, X. </b>& McMillan, C. (2018). The interplay between families and technology: Directions for future investigation. In J. Van Hook, S. McHale, & V. King (Eds). <a href="https://www.springer.com/fr/book/9783319955391"> *Families and technology,*</a> New York: Springer. (Authors have equal contributions)<br/>
 <b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a><br/>
  
- ##### (3) Big data and family research: The Screenomics paradigm.
+ ##### (3) Big Data and Family Research: The Screenomics Paradigm.
+ 
  To expand on my expertise and interest in using big data to understand family dynamics, I joined the Stanford Screenomics Lab (i.e., <a href="http://screenomics.stanford.edu/">the Human Screenome Project</a>) to gain more hands-on experiences in collecting, managing, processing, and analyzing big data, and to examine family interactions in the digital world. Using highly intensive data collected from individuals’ smartphones, my research focuses on the interplay between technology and family systems and its implications for youth psychological well-being. <br/>
+ 
  <b>Featured work:</b><br/>
 <b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. <a href="https://www.youtube.com/watch?v=rcPGQLG03TQ">
   Watch video presentation.</a><br/>
@@ -95,7 +97,9 @@ My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big
 <br/>
 
 ##### (4) Longitudinal Dyadic Data Analysis of Family Processes.
-Family systems are complex, and I have been interested in applying methods to capture their complexity. One step is applying dyadic data analytics to examine whether and how partners’ experiences and individual characteristics are linked to their own and to the other’s relationship experiences. In this research line, I have focused on *actor-partner interdependence modeling,* especially the adaptation of this method to analysis of longitudinal data collected from family dyads, including *couple, parent-youth, and sibling dyads.* Findings highlight the interdependence of family members’ experiences over time, and gender asymmetry in influence processes.<br/>
+Family systems are complex, and I have been interested in applying methods to capture their complexity. One step is applying dyadic data analytics to examine whether and how partners’ experiences and individual characteristics are linked to their own and to the other’s relationship experiences. In this research line, I have focused on *actor-partner interdependence modeling,* especially the adaptation of this method to analysis of longitudinal data collected from family dyads, including *couple, parent-youth, and sibling dyads.* Findings highlight the interdependence of family members’ experiences over time, and gender asymmetry in influence processes.
+<br/>
+
  <b>Featured work:</b><br/>
 <b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2020). Perceived underemployment and couple relationships among African American parents: A dyadic approach. *Cultural Diversity and Ethnic Minority Psychology, 26*, 82-92. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/> (Media mentions: <a href="https://www.apa.org/pubs/highlights/spotlight/issue-173">*APA Spotlight*</a>, <a href="https://news.psu.edu/story/607964/2020/02/12/research/underemployment-affects-african-american-parents-and-their">*Penn State News*</a>)<br/>
