@@ -78,7 +78,7 @@ My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big
 <b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a>
 <br/>
  
-##### (2) Big Data and Family Research: The Screenomic Paradigm.
+##### (3) Big Data and Family Research: The Screenomic Paradigm.
  To expand on my expertise and interest in using big data to understand family dynamics, I joined the Stanford Screenomics Lab (i.e., <a href="http://screenomics.stanford.edu/">the Human Screenome Project</a>) to gain more hands-on experiences in collecting, managing, processing, and analyzing big data, and to examine family interactions in the digital world. Using highly intensive data collected from individuals’ smartphones, my research focuses on the interplay between technology and family systems and its implications for youth psychological well-being. <br/>
  
  <b>Featured work:</b><br/>
