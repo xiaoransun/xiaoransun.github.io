@@ -75,7 +75,8 @@ My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 <b>Sun, X.</b> (2019, March). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium chaired at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.<br/>
 <b>Sun, X. </b>& McMillan, C. (2018). The interplay between families and technology: Directions for future investigation. In J. Van Hook, S. McHale, & V. King (Eds). <a href="https://www.springer.com/fr/book/9783319955391"> *Families and technology,*</a> New York: Springer. (Authors have equal contributions)<br/>
-<b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a><br/>
+<b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a>
+<br/>
  
  ##### (3) Big Data and Family Research: The Screenomics Paradigm.
  
