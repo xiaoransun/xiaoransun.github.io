@@ -19,26 +19,26 @@ My current work is mainly involved with <a href="http://screenomics.stanford.edu
 
 I obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. 
 
-<b>Research keywords: </b> <br/>
-Adolescent and young adult well-being; <br/>
-Family dynamics, contexts around families (technology, work experiences, sociocultural context); <br/>
-Computational social science; innovative statistical and computational methods for studying family and youth development<br/>
+#### Research keywords
+<b>Adolescent and young adult well-being;</b> <br/>
+<b>Family dynamics, contexts around families (technology, work experiences, sociocultural context); </b><br/>
+<b>Computational social science; innovative statistical and computational methods for studying family and youth development</b><br/>
 
-<b> My most recent publication (as of July 2020):</b><br/>
+#### My most recent publication (as of July 2020)
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 
-<b>Upcoming talks & presentations:</b><br/>
+#### Upcoming talks & presentations
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.<br/>
 
 
 
-My research involves: <br/>
-(1) <b>Family dynamics and adolescents' and young adults' well-being.</b> </br>
+#### My research
+##### (1) Family dynamics and adolescents' and young adults' well-being.
 My work contributes to the understanding of long-term implications of early family experiences, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of multiple family members, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
 
-Featured work:<br/>
+<b>Featured work:</b><br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
 (Media mentions: <a href="https://www.nichd.nih.gov/newsroom/releases/062618-siblings">*NICHD*</a>, <a href="https://www.sciencedaily.com/releases/2018/04/180417115808.htm">*ScienceDaily*</a>, <a href="https://news.psu.edu/story/524771/2018/06/18/research/childhood-sibling-dynamics-may-predict-differences-college">*Penn State News*</a>, <a href="https://www.tun.com/blog/sibling-relationships-predict-educational-success/">*The University Network*</a>, <a href="https://medicalresearch.com/author-interviews/sibling-closeness-in-middle-school-predicts-differences-in-college-graduation/42678/">*MedicalResearch*</a>, <a href="http://www.zhishifenzi.com/depth/depth/4726.html">*知识分子*</a>)
   <br/>
