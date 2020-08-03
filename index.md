@@ -27,6 +27,10 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
         <div class="span5">
             Xiaoran Sun<br/>
             Email: xbs5014@stanford.edu<br/>
+            [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
+            <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5-eJkGrq42VwM2xj7-DGGzqsNVu4VLLwzZvSKSJTD8x98DYetkvbhiBxHvERxwcbyIfwMk6znRr3vEoTGnDfmaltG3CmVBqL18ikdFDJmDblWEkB4&user=5-ZTRKwAAAAJ">Google Scholar Profile</a><br/>
+            <a href="https://github.com/xiaoransun">GitHub</a><br/>
+            <a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a><br/>
         </div>
 
         <div class="span2">
@@ -35,29 +39,7 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
                   title="Xiaoran Sun" alt="Xiaoran Sun"/></a>
         </div>
     </div>
-</div>
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
-
-<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5-eJkGrq42VwM2xj7-DGGzqsNVu4VLLwzZvSKSJTD8x98DYetkvbhiBxHvERxwcbyIfwMk6znRr3vEoTGnDfmaltG3CmVBqL18ikdFDJmDblWEkB4&user=5-ZTRKwAAAAJ">Google Scholar Profile</a>
-
-<b>Research Keywords:</b>
-Family systems processes<br/>
-Adolescent and young adult well-being<br/>
-Contexts around families (technology, work experiences, sociocultural context); <br/>
-Computational social science <br/>
-Innovative statistical and computational methods for studying family and youth development<br/>
-<br/>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://github.com/xiaoransun">GitHub</a></li>
-          <li><a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a></li>
-      </ul>
-  </div>
-</div>
-<br/>
 
 #### My Most Recent Publication (as of July 2020)
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
