@@ -27,7 +27,7 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
         <div class="span5">
             Xiaoran Sun<br/>
             Email: xbs5014@stanford.edu<br/>
-            [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
+            <a href="../assets/Sun_VITA.pdf">Curriculum Vitae</a><br/>
             <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5-eJkGrq42VwM2xj7-DGGzqsNVu4VLLwzZvSKSJTD8x98DYetkvbhiBxHvERxwcbyIfwMk6znRr3vEoTGnDfmaltG3CmVBqL18ikdFDJmDblWEkB4&user=5-ZTRKwAAAAJ">Google Scholar Profile</a><br/>
             <a href="https://github.com/xiaoransun">GitHub</a><br/>
             <a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a><br/>
@@ -78,8 +78,7 @@ My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big
 <b>Sun, X.,</b> Chi, G., Yin, J., & McHale, S. M. (2018, October). *Sibling interactions and shared interests on Twitter: Analyses of a selected sibling sample based on archived Twitter data.* Paper presented at SRCD Special Topics: Conference on the Use of Secondary and Open Source Data in Developmental Science, Phoenix, AZ. <a href="../assets/Sun Twitter DevSec 2018-10-4.pptx"> Download Slides</a>
 <br/>
  
- ##### (3) Big Data and Family Research: The Screenomics Paradigm.
- 
+##### (2) Big Data and Family Research: The Screenomic Paradigm.
  To expand on my expertise and interest in using big data to understand family dynamics, I joined the Stanford Screenomics Lab (i.e., <a href="http://screenomics.stanford.edu/">the Human Screenome Project</a>) to gain more hands-on experiences in collecting, managing, processing, and analyzing big data, and to examine family interactions in the digital world. Using highly intensive data collected from individuals’ smartphones, my research focuses on the interplay between technology and family systems and its implications for youth psychological well-being. <br/>
  
  <b>Featured work:</b><br/>
