@@ -20,8 +20,22 @@ My current work is mainly involved with <a href="http://screenomics.stanford.edu
 I obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. <br/>
 
 <b>I'm currently on the job market looking for a tenure-track position. </b> <br/>
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
 
-contact: xbs5014@stanford.edu <br/>
+    <div class="row-fluid">
+        <div class="span5">
+            Xiaoran Sun<br/>
+            Email: xbs5014@stanford.edu<br/>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Xiaoran Sun" alt="Xiaoran Sun"/></a>
+        </div>
+    </div>
+</div>
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sun_VITA.pdf)<br/>
 
@@ -74,11 +88,8 @@ My traineeship in the <a href="https://soda.la.psu.edu/igert">Penn State NSF Big
  ##### (3) Big data and family research: The Screenomics paradigm.
  To expand on my expertise and interest in using big data to understand family dynamics, I joined the Stanford Screenomics Lab (i.e., <a href="http://screenomics.stanford.edu/">the Human Screenome Project</a>) to gain more hands-on experiences in collecting, managing, processing, and analyzing big data, and to examine family interactions in the digital world. Using highly intensive data collected from individuals’ smartphones, my research focuses on the interplay between technology and family systems and its implications for youth psychological well-being. <br/>
  <b>Featured work:</b><br/>
-<b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. 
-<video src = "../assets/Sun ic2s2 presentation_long.mp4">
-  Watch video presentation.
-</video>
-<br/>
+<b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. <a href="https://www.youtube.com/watch?v=rcPGQLG03TQ">
+  Watch video presentation.</a><br/>
 <b>Sun, X., </b>  Haydel, F., Matheson, D., Desai, M., & Robinson, T. N. *“When should I give my children their first phone?” A pre-registered, prospective study of mobile phone ownership and well-being among Latino youth.* Manuscript in progress. <br/>
 <b>Sun, X., </b> Ram, N., Reeves, B., Cho, M.J., & Robinson, T.N. *What keep young adults on their smartphones? Investigating features for screen time and long sessions with the screenomics paradigm.* Manuscript in progress.<br/>
 <br/>
@@ -99,22 +110,7 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 ---
 
 
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
 
-    <div class="row-fluid">
-        <div class="span5">
-            Xiaoran Sun<br/>
-            Email: xbs5014@stanford.edu<br/>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Xiaoran Sun" alt="Xiaoran Sun"/></a>
-        </div>
-    </div>
-</div>
 
 <div class="navbar">
   <div class="navbar-inner">
