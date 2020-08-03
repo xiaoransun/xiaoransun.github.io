@@ -39,7 +39,7 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
                   title="Xiaoran Sun" alt="Xiaoran Sun"/></a>
         </div>
     </div>
-
+</div>
 
 #### My Most Recent Publication (as of July 2020)
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
