@@ -48,7 +48,17 @@ Contexts around families (technology, work experiences, sociocultural context); 
 Computational social science <br/>
 Innovative statistical and computational methods for studying family and youth development<br/>
 <br/>
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://github.com/xiaoransun">GitHub</a></li>
+          <li><a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a></li>
+      </ul>
+  </div>
+</div>
 <br/>
+
 #### My Most Recent Publication (as of July 2020)
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 <br/>
@@ -116,11 +126,4 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 
 
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://github.com/xiaoransun">GitHub</a></li>
-          <li><a href="https://twitter.com/xiaoransunpsu">Twitter (@xiaoransunpsu)</a></li>
-      </ul>
-  </div>
-</div>
+
