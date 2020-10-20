@@ -58,10 +58,10 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 
 
 #### My Research
-- <a href="#bullet1">>Family Dynamics and Adolescents' and Young Adults' Well-Being </a>
-- Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning
-- Big Data and Family Research: The Screenomic Paradigm
-- Longitudinal Dyadic Data Analysis of Family Processes
+- [**Family Dynamics and Adolescents' and Young Adults' Well-Being**](#1-family-dynamics-and-adolescents-and-young-adults-well-being)
+- [**Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
+- [**Big Data and Family Research: The Screenomic Paradigm**](#3-big-data-and-family-research-the-screenomic-paradigm)
+- [**Longitudinal Dyadic Data Analysis of Family Processes**](#4-longitudinal-dyadic-data-analysis-of-family-processes)
 
 ##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being. 
 <p id = "bullet1">
