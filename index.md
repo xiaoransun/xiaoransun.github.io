@@ -58,10 +58,10 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 
 
 #### My Research
-- Family Dynamics and Adolescents' and Young Adults' Well-Being.
-- Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning.
-- Big Data and Family Research: The Screenomic Paradigm.
-- Longitudinal Dyadic Data Analysis of Family Processes.
+- [**Family Dynamics and Adolescents' and Young Adults' Well-Being**](#1-family-dynamics-and-adolescents-and-young-adults-well-being)
+- [**Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
+- [**Big Data and Family Research: The Screenomic Paradigm**](3-big-data-and-family-research-the-screenomic-paradigm)
+- [**Longitudinal Dyadic Data Analysis of Family Processes**](#4-longitudinal-dyadic-data-analysis-of-family-processes)
 
 ##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being.
 My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
