@@ -41,9 +41,14 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
     </div>
 </div>
 
-#### My Most Recent Publication (as of July 2020)
-<b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
+#### My Most Recent Publications (as of October 2020)
+<b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 <br/>
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology.* [online first]. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
+<br/>
+
+<b><a href="https://xiaoransun.github.io/pages/Publications%20&%20Presentations.html">See the full list of publications & presentations</a> </b> 
+
 #### Upcoming Talks & Presentations
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
@@ -53,6 +58,11 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 
 
 #### My Research
+- Family Dynamics and Adolescents' and Young Adults' Well-Being.
+- Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning.
+- Big Data and Family Research: The Screenomic Paradigm.
+- Longitudinal Dyadic Data Analysis of Family Processes.
+
 ##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being.
 My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
 
