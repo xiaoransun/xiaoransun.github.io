@@ -47,24 +47,25 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology.* [online first]. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
 <br/>
 
-<b><a href="https://xiaoransun.github.io/pages/Publications%20&%20Presentations.html">See the full list of publications & presentations</a> </b> 
-
 #### Upcoming Talks & Presentations
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.<br/>
+
+<b><a href="https://xiaoransun.github.io/pages/Publications%20&%20Presentations.html">See the full list of publications & presentations</a> </b> 
 <br/>
 <br/>
 
 
 #### My Research
-- [**Family Dynamics and Adolescents' and Young Adults' Well-Being**](#1-family-dynamics-and-adolescents-and-young-adults-well-being)
-- [**Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
-- [**Big Data and Family Research: The Screenomic Paradigm**](3-big-data-and-family-research-the-screenomic-paradigm)
-- [**Longitudinal Dyadic Data Analysis of Family Processes**](#4-longitudinal-dyadic-data-analysis-of-family-processes)
+- <a href="#bullet1">>Family Dynamics and Adolescents' and Young Adults' Well-Being </a>
+- Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning
+- Big Data and Family Research: The Screenomic Paradigm
+- Longitudinal Dyadic Data Analysis of Family Processes
 
-##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being.
-My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
+##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being. 
+<p id = "bullet1">
+My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning.</p> <br/>
 
 <b>Featured work:</b><br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
