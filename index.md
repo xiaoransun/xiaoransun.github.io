@@ -58,6 +58,7 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 
 
 #### My Research
+<<<<<<< HEAD
 - <a href="#bullet1">>Family Dynamics and Adolescents' and Young Adults' Well-Being </a>
 - Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning
 - Big Data and Family Research: The Screenomic Paradigm
@@ -66,6 +67,15 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 ##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being. 
 <p id = "bullet1">
 My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning.</p> <br/>
+=======
+- Family Dynamics and Adolescents' and Young Adults' Well-Being.
+- Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning.
+- Big Data and Family Research: The Screenomic Paradigm.
+- Longitudinal Dyadic Data Analysis of Family Processes.
+
+##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being.
+My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
+>>>>>>> parent of 103857a... Update index.md
 
 <b>Featured work:</b><br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2019). Sibling experiences in middle childhood predict sibling differences in college graduation. *Child Development, 90*, 25-34. <br/> <a href="https://doi.org/10.1111/cdev.13047">https://doi.org/10.1111/cdev.13047</a><br/>
