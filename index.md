@@ -51,7 +51,7 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.<br/>
-<a href="../assets/Sun NCFR ML workshop 2020-11-12.pdf">*Download handout here*</a></br>
+<a href="../assets/Sun NCFR ML workshop 2020-11-12.pdf">*Download handout here*</a><br/>
 
 <b><a href="https://xiaoransun.github.io/pages/Publications%20&%20Presentations.html">See the full list of publications & presentations</a> </b> 
 <br/>
