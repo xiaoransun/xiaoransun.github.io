@@ -41,13 +41,18 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
     </div>
 </div>
 
-#### My Most Recent Publications (as of October 2020)
+#### News
+
+#### Grants & Awards
+December, 2020-- I was awareded the <a href="https://med.stanford.edu/mchri/funding_opportunities/postdoctoral-support.html">Postdoctoral Supprot funds from the Stanford Maternal and Child Health Research Institute (MCHRI)</a>! The acceptance rates have been about 20% over the past fiscal years. The Project Title: *Examining implications of parent-adolescent digital communication for their relationship quality and adolescent mental health* (i.e., "The Family Screenome Project")<br/>
+
+##### Recent Publications 
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 <br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology.* [online first]. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
 <br/>
 
-#### Upcoming Talks & Presentations
+##### Recent Talks & Presentations
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.<br/>
