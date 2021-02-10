@@ -44,7 +44,7 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 #### News
 
 ##### Grants & Awards
-December, 2020-- I was awareded the <a href="https://med.stanford.edu/mchri/funding_opportunities/postdoctoral-support.html">Postdoctoral Supprot funds from the Stanford Maternal and Child Health Research Institute (MCHRI)</a>! The acceptance rates have been about 20% over the past fiscal years. The Project Title: *Examining implications of parent-adolescent digital communication for their relationship quality and adolescent mental health* (i.e., "The Family Screenome Project")<br/>
+December, 2020-- I was awarded the <a href="https://med.stanford.edu/mchri/funding_opportunities/postdoctoral-support.html">Postdoctoral Supprot funds from the Stanford Maternal and Child Health Research Institute (MCHRI)</a>! The acceptance rates have been about 20% over the past fiscal years. The Project Title: *Examining implications of parent-adolescent digital communication for their relationship quality and adolescent mental health* (i.e., "The Family Screenome Project")<br/>
 
 ##### Recent Publications 
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
