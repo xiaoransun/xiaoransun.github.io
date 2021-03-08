@@ -9,9 +9,13 @@ description: Xiaoran Sun's Publications & Presentations
 ### Publications
 *Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
   <br/>
-#### Manuscripts Published
+#### Manuscripts Published & in press
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (in press) Implications of Mexican-origin youth’s work experiences for relationships with fathers. Manuscript in press, *Cultural Diversity and Ethnic Minority Psychology.*
+
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a>
 <br/>
+
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology, 56,* 2309-2321. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
 
 <b>Sun, X.,</b> McHale, S. M., & Crouter, A. C.(2020). Perceived underemployment and couple relationships among African American parents: A dyadic approach. *Cultural Diversity and Ethnic Minority Psychology, 26*, 82-92. <a href="https://doi.org/10.1037/cdp0000285">https://doi.org/10.1037/cdp0000285</a>
 <br/> (Media mentions: <a href="https://www.apa.org/pubs/highlights/spotlight/issue-173">*APA Spotlight*</a>, <a href="https://news.psu.edu/story/607964/2020/02/12/research/underemployment-affects-african-american-parents-and-their">*Penn State News*</a>)<br/>
@@ -42,12 +46,6 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <b>Sun, X. </b>& McMillan, C. (2018). The interplay between families and technology: Directions for future investigation. In J. Van Hook, S. McHale, & V. King (Eds). <a href="https://www.springer.com/fr/book/9783319955391"> *Families and technology,*</a> New York: Springer. (Authors have equal contributions)
   <br/>
 
-#### Manuscripts Under Review
-*For titles, please see my <a href="https://xiaoransun.github.io/assets/Sun_VITA.pdf">CV</a>*
-  <br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (under review). <br/>
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (under review). <br/>
-
 ### Presentations
 
 #### Talk
@@ -55,10 +53,10 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <br/>
 
 #### Conference Symposia & Workshop
-<b>Sun, X.</b>  (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.
+<b>Sun, X.</b>  (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium  chaired at the National Council on Family Relations, virtual conference.
 <br/>
 
-<b>Sun, X.</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.
+<b>Sun, X.</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop chaired at the National Council on Family Relations, virtual conference.
 <br/>
 
 <b>Sun, X.</b> (2019, November). *How Families Help Youth to Flourish: The Role of Family Dynamics in Adolescent and Young Adult Positive Well-Being.* Symposium chaired at the National Council on Family Relations, Fort Worth, TX.
