@@ -19,7 +19,6 @@ My current work is mainly involved with <a href="http://screenomics.stanford.edu
 
 I obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. <br/>
 
-<b>I'm currently on the job market looking for a tenure-track position. </b> <br/>
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
@@ -48,12 +47,14 @@ December, 2020-- I was awarded the <a href="https://med.stanford.edu/mchri/fundi
 
 ##### Recent Publications 
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology.* [online first]. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
+<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology, 56,* 2309-2321. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
 
 ##### Recent Talks & Presentations
-<b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium to be chaired at the National Council on Family Relations, virtual conference.<br/>
-<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference. <br/>
-<b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop to be chaired at the National Council on Family Relations, virtual conference.<br/>
+<b>Sun, X.,</b>  Haydel, K. F., Matheson, D., Desai, M., & Robinson, T. N. (2021, April). *Prospective study of mobile phone acquisition and ownership and well-being among low-income Latinx children.* Poster to be presented at the Biennial Meeting of Society for Research in Child Development (SRCD), virtual conference. <a href="../assets/Sun phone ownership SRCD 2021-2-24.pdf">*Download poster here*</a><br/> 
+<b>Sun, X.,*</b> Updegraff, K. A.,* McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. (2021, April). Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. Paper to be presented at the Biennial Meeting of Society for Research in Child Development (SRCD), virtual conference. <br/> 
+<b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium chaired at the National Council on Family Relations, virtual conference.<br/>
+<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper presented at the National Council on Family Relations, virtual conference. <br/>
+<b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop chaired at the National Council on Family Relations, virtual conference.<br/>
 <a href="../assets/Sun NCFR ML workshop 2020-11-12.pdf">*Download handout here*</a><br/>
 
 <b><a href="https://xiaoransun.github.io/pages/Publications%20&%20Presentations.html">See the full list of publications & presentations</a> </b> 
