@@ -13,28 +13,19 @@ As a developmental and family psychologist, I conduct research on the interplay 
 ##### (1) Families and youth in the digital context.
 Digital technology is ubiquitous and pervasive in individuals’ and families’ life. Thus, the digital context is an increasingly important context to consider in the social ecology of families and youth. How do family interactions unfold in the digital world? What are the implications of family digital interactions for family functioning and youth well-being? <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span5">
-            To answer these questions, currently I am leading the *Family Screenome Project*, based on the <a href="https://screenomics.stanford.edu/">Screenomics approach</a>, to collect temporally dense, imaged-based data streams from smartphones of adolescents and parents, along with bi-weekly survey data on their relationship quality and well-being. This project is passively and unobtrusively collecting screenshots from participants’ smartphones every 5 seconds whenever the smartphone screen is activated, across up to 6 months. With rich, objective data (~360k screenshots per participant on average) collected from this innovative approach on parents’ and adolescents’ digital behaviors, many questions with regard to family dynamics, digital communication, media effects, and adolescent well-being can be answered. See below a demonstration of how parent-young adult smartphone interactions based on screenome observations can be analyzed across multiple time scales.<br/>
-        </div>
-
-        <div class="span2">
-        ![image](https://user-images.githubusercontent.com/10061053/126844852-7d23bff2-a9c6-47c8-98de-abe86f79ffbd.png)
-        </div>
-    </div>
-</div>
-
-To answer these questions, currently I am leading the *Family Screenome Project*, based on the <a href="https://screenomics.stanford.edu/">Screenomics approach</a>, to collect temporally dense, imaged-based data streams from smartphones of adolescents and parents, along with bi-weekly survey data on their relationship quality and well-being. This project is passively and unobtrusively collecting screenshots from participants’ smartphones every 5 seconds whenever the smartphone screen is activated, across up to 6 months. With rich, objective data (~360k screenshots per participant on average) collected from this innovative approach on parents’ and adolescents’ digital behaviors, many questions with regard to family dynamics, digital communication, media effects, and adolescent well-being can be answered. See below a demonstration of how parent-young adult smartphone interactions based on screenome observations can be analyzed across multiple time scales.
+To answer these questions, currently I am leading the *Family Screenome Project*, based on the <a href="https://screenomics.stanford.edu/">Screenomics approach</a>, to collect temporally dense, imaged-based data streams from smartphones of adolescents and parents, along with bi-weekly survey data on their relationship quality and well-being. This project is passively and unobtrusively collecting screenshots from participants’ smartphones every 5 seconds whenever the smartphone screen is activated, across up to 6 months. With rich, objective data (~360k screenshots per participant on average) collected from this innovative approach on parents’ and adolescents’ digital behaviors, many questions with regard to family dynamics, digital communication, media effects, and adolescent well-being can be answered. See below a demonstration of how parent-young adult smartphone interactions based on screenome observations can be analyzed across multiple time scales.<br/>
 
 ![image](https://user-images.githubusercontent.com/10061053/126844852-7d23bff2-a9c6-47c8-98de-abe86f79ffbd.png)
 
- <b>Featured work:</b><br/>
-<b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. <a href="https://www.youtube.com/watch?v=rcPGQLG03TQ">
-  Watch video presentation.</a><br/>
-<b>Sun, X., </b>  Haydel, F., Matheson, D., Desai, M., & Robinson, T. N. *“When should I give my children their first phone?” A pre-registered, prospective study of mobile phone ownership and well-being among Latino youth.* Manuscript in progress. <br/>
-<b>Sun, X., </b> Ram, N., Reeves, B., Cho, M.J., & Robinson, T.N. *What keep young adults on their smartphones? Investigating features for screen time and long sessions with the screenomics paradigm.* Manuscript in progress.<br/>
-<br/>
+Further, on this topic, another part of my work is theoretical, trying to synthesize past research and push for building a theoretical framework for families and technology.<br/>
+
+
+<b>Featured work:</b><br/>
+<b>Sun, X., </b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., Yang, X., & Robinson, T. N. *Dynamic Characteristics of Young Adults’ Smartphone Interactions with Parents: Observing Screenomes in Multiple Timescales* Manuscript under review for an invited special issue submission.
+NCFR workshop
+NCFR presentation
+<b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. 
+Chapter
 
 
 
