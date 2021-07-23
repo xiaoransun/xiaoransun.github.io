@@ -60,7 +60,6 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <br/>
 <b>Sun, X.,</b> McHale, S. M., Crouter, A. C., & Jones, D. E. (2017). Longitudinal links between work experiences and marital satisfaction in African American dual-earner couples. *Journal of Family Psychology, 31,* 1029-1039. <a href="http://dx.doi.org/10.1037/fam0000381">http://dx.doi.org/10.1037/fam0000381</a>
 <br/>
-![image](https://user-images.githubusercontent.com/10061053/126815509-a88c783d-d352-4b89-adda-265bf1fdef7c.png)
 
 
 
