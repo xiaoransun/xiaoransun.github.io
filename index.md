@@ -13,11 +13,12 @@ gtag('config', 'UA-136688043-1');
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am a postdoctoral scholar at Stanford University, affiliated with the Department of Pediatrics and Department of Communication, and in the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholar Program</a>. <br/>
+Welcome to my website! I am an incoming assistant professor to the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a> in <a href="https://www.cehd.umn.edu/">the College of Education and Health Development</a> at University of Minnesota. <b>I am accepting graduate students for Fall 2022. If you are interested, please contact for more information.</b>
 
-My current work is mainly involved with <a href="http://screenomics.stanford.edu/">The Screenomics Lab</a> and the <a href="https://med.stanford.edu/genpeds/research/solutions-science-lab.html">Solutions Science Lab</a>. <br/>
+I am currently a postdoctoral scholar at Stanford University, affiliated with the <a href="https://med.stanford.edu/pediatrics.html">Department of Pediatrics</a> and <a href="https://comm.stanford.edu/">Department of Communication</a>, and in the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholar Program</a>. I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development and Family Studies</a> from the Pennsylvania State University in August 2019, with a graduate minor in <a href="https://soda.la.psu.edu">Social Data Analytics</a>. Before graduate schoool, I obtained my B.S. in Psychology from Zhejiang University, China in July 2015. <br/>
 
-I obtained my PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. <br/>
+<b>Research areas, *Substantive*:</b> Family systems; Adolescent & young adult; Achievements & well-being; Technology & cultural contexts<br/>
+<b>Research areas, *Methodology*:</b> Computational social science; Big data & machine learning; Longitudinal dyadic data modeling
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
@@ -43,21 +44,18 @@ I obtained my PhD degree in Human Development and Family Studies from the Pennsy
 #### News
 
 ##### Grants & Awards
-December, 2020-- I was awarded the <a href="https://med.stanford.edu/mchri/awards/PostdoctoralAwards.html">Postdoctoral Supprot funds from the Stanford Maternal and Child Health Research Institute (MCHRI)</a>! The acceptance rates have been about 20% over the past fiscal years. The Project Title: *Examining implications of parent-adolescent digital communication for their relationship quality and adolescent mental health* (i.e., "The Family Screenome Project")<br/>
+December, 2020-- I was awarded the <a href="https://med.stanford.edu/mchri/awards/PostdoctoralAwards.html">Postdoctoral Supprot funds from the Stanford Maternal and Child Health Research Institute (MCHRI)</a>! Project Title: *Examining implications of parent-adolescent digital communication for their relationship quality and adolescent mental health* (i.e., "The Family Screenome Project")<br/>
 
 ##### Recent Publications 
 <b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. Manuscript in press, *Developmental Psychology*. (Sun and Updegraff had equal contributions.)<br/>
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. Implications of Mexican-origin youth’s work experiences for relationships with fathers. Manuscript in press, *Cultural Diversity and Ethnic Minority Psychology.*<br/>
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2020). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology.* [online first] <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
-<b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology, 56,* 2309-2321. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
 
-##### Recent Talks & Presentations
+
+##### Recent Talks 
 <b>Sun, X.</b> & Wang, Y. (2021, November). *Typology of Research on Families and Technology: A Systematic Review.* Workshop to be chaired at the TCRM conference at the National Council on Family Relations, virtual conference.<br/>
-<b>Sun, X.,</b> LeBouef, S., & Dworkin, J. (2021, November). *It’s how you talk about it: Linguistic correlates of family dynamics from young adults’ interviews.*  Poster to be presented at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b>  Haydel, K. F., Matheson, D., Desai, M., & Robinson, T. N. (2021, April). *Prospective study of mobile phone acquisition and ownership and well-being among low-income Latinx children.* Poster presented at the Biennial Meeting of Society for Research in Child Development (SRCD), virtual conference. <a href="../assets/Sun phone ownership SRCD 2021-2-24.pdf">*Download poster here*</a><br/> 
-<b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. (2021, April). Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. Paper presented at the Biennial Meeting of Society for Research in Child Development (SRCD), virtual conference. (Sun and Updegraff have equal contributions.) <br/> 
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium chaired at the National Council on Family Relations, virtual conference.<br/>
-<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper presented at the National Council on Family Relations, virtual conference. <br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop chaired at the National Council on Family Relations, virtual conference.<br/>
 <a href="../assets/Sun NCFR ML workshop 2020-11-12.pdf">*Download handout here*</a><br/>
 
@@ -66,7 +64,7 @@ December, 2020-- I was awarded the <a href="https://med.stanford.edu/mchri/award
 <br/>
 
 
-#### My Research
+#### Research Projects
 - [**Family Dynamics and Adolescents' and Young Adults' Well-Being**](#1-family-dynamics-and-adolescents-and-young-adults-well-being)
 - [**Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
 - [**Big Data and Family Research: The Screenomics Paradigm**](#3-big-data-and-family-research-the-screenomics-paradigm)
