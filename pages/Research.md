@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research Experiences
+title: Research 
 description: Xiaoran Sun's research projects
 ---
 <meta name="format-detection" content="telephone=no">
 
-#### Research Projects
+#### Projects
 - [**Family Dynamics and Adolescents' and Young Adults' Well-Being**](#1-family-dynamics-and-adolescents-and-young-adults-well-being)
 - [**Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
 - [**Big Data and Family Research: The Screenomics Paradigm**](#3-big-data-and-family-research-the-screenomics-paradigm)
