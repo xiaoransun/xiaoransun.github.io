@@ -20,7 +20,7 @@ I am currently a postdoctoral scholar at Stanford University, affiliated with th
 <b>Research areas, *Substantive*:</b> Family systems; Adolescent & young adult; Achievements & well-being; Technology & cultural contexts<br/>
 <b>Research areas, *Methodology*:</b> Computational social science; Big data & machine learning; Longitudinal dyadic data modeling<br/>
 
-See details about my research.
+<a href="https://xiaoransun.github.io/pages/Research.html">See details about my research.</a>
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
