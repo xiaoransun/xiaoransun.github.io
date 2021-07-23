@@ -5,14 +5,38 @@ description: Xiaoran Sun's research projects
 ---
 <meta name="format-detection" content="telephone=no">
 
-#### Projects
-- [**Family Dynamics and Adolescents' and Young Adults' Well-Being**](#1-family-dynamics-and-adolescents-and-young-adults-well-being)
-- [**Big Data and Family Research: Mining Social Media Data and Analyzing Large-Scale Data with Machine Learning**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
-- [**Big Data and Family Research: The Screenomics Paradigm**](#3-big-data-and-family-research-the-screenomics-paradigm)
-- [**Longitudinal Dyadic Data Analysis of Family Processes**](#4-longitudinal-dyadic-data-analysis-of-family-processes)
+As a developmental and family psychologist, I conduct research on the interplay between family systems processes and well-being across adolescence and young adulthood, situated in the larger socio-ecological context. In addition, with my data science background, I am particularly interested in applying innovative methods and data to family and developmental research. Research topics include:
+- [**Families and youth in the digital context**](#1-families-and-youth-in-the-digital-context)
+- [**Machine learning for research on family experiences and youth achievements**](#2-big-data-and-family-research-mining-social-media-data-and-analyzing-large-scale-data-with-machine-learning)
+- [**Family dynamics and adolescents' and young adults' development towards achievement**](#3-big-data-and-family-research-the-screenomics-paradigm)
 
-##### (1) Family Dynamics and Adolescents' and Young Adults' Well-Being.
-My work contributes to the understanding of *long-term implications of early family experiences*, especially those with parents and siblings across middle childhood and adolescence, for developmental outcomes in the domains of love and work in young adulthood. Further, by incorporating the experiences of *multiple family members*, my research highlights within-family differences including between mothers and fathers and between siblings, as well as the role of gender in developmental outcomes. Findings from my work also have practical implications for family-focused interventions aimed at promoting youth well-being and positive family functioning. <br/>
+##### (1) Families and youth in the digital context.
+Digital technology is ubiquitous and pervasive in individuals’ and families’ life. Thus, the digital context is an increasingly important context to consider in the social ecology of families and youth. How do family interactions unfold in the digital world? What are the implications of family digital interactions for family functioning and youth well-being? <br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            To answer these questions, currently I am leading the *Family Screenome Project*, based on the <a href="https://screenomics.stanford.edu/">Screenomics approach</a>, to collect temporally dense, imaged-based data streams from smartphones of adolescents and parents, along with bi-weekly survey data on their relationship quality and well-being. This project is passively and unobtrusively collecting screenshots from participants’ smartphones every 5 seconds whenever the smartphone screen is activated, across up to 6 months. With rich, objective data (~360k screenshots per participant on average) collected from this innovative approach on parents’ and adolescents’ digital behaviors, many questions with regard to family dynamics, digital communication, media effects, and adolescent well-being can be answered. See below a demonstration of how parent-young adult smartphone interactions based on screenome observations can be analyzed across multiple time scales.<br/>
+        </div>
+
+        <div class="span2">
+        ![image](https://user-images.githubusercontent.com/10061053/126844852-7d23bff2-a9c6-47c8-98de-abe86f79ffbd.png)
+        </div>
+    </div>
+</div>
+
+To answer these questions, currently I am leading the *Family Screenome Project*, based on the <a href="https://screenomics.stanford.edu/">Screenomics approach</a>, to collect temporally dense, imaged-based data streams from smartphones of adolescents and parents, along with bi-weekly survey data on their relationship quality and well-being. This project is passively and unobtrusively collecting screenshots from participants’ smartphones every 5 seconds whenever the smartphone screen is activated, across up to 6 months. With rich, objective data (~360k screenshots per participant on average) collected from this innovative approach on parents’ and adolescents’ digital behaviors, many questions with regard to family dynamics, digital communication, media effects, and adolescent well-being can be answered. See below a demonstration of how parent-young adult smartphone interactions based on screenome observations can be analyzed across multiple time scales.
+
+![image](https://user-images.githubusercontent.com/10061053/126844852-7d23bff2-a9c6-47c8-98de-abe86f79ffbd.png)
+
+ <b>Featured work:</b><br/>
+<b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. <a href="https://www.youtube.com/watch?v=rcPGQLG03TQ">
+  Watch video presentation.</a><br/>
+<b>Sun, X., </b>  Haydel, F., Matheson, D., Desai, M., & Robinson, T. N. *“When should I give my children their first phone?” A pre-registered, prospective study of mobile phone ownership and well-being among Latino youth.* Manuscript in progress. <br/>
+<b>Sun, X., </b> Ram, N., Reeves, B., Cho, M.J., & Robinson, T.N. *What keep young adults on their smartphones? Investigating features for screen time and long sessions with the screenomics paradigm.* Manuscript in progress.<br/>
+<br/>
+
+
 
 <b>Featured work:</b><br/>
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology, 56,* 2309-2321. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
