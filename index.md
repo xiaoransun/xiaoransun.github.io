@@ -15,7 +15,7 @@ gtag('config', 'UA-136688043-1');
 
 Welcome to my website! I am an incoming assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Health Development</a>, at University of Minnesota. <br/>
 
-<b>I am accepting graduate students for Fall 2022. </b> I also welcome undergraduate and masters students to collaborate on research. If you are interested, please contact for more information.<br/>
+<b>I am accepting graduate students for Fall 2022. </b> I also welcome undergraduate and master's students to collaborate on research. If you are interested, please contact for more information.<br/>
 
 I am currently a postdoctoral scholar at Stanford University, affiliated with the <a href="https://med.stanford.edu/pediatrics.html">Department of Pediatrics</a> and <a href="https://comm.stanford.edu/">Department of Communication</a>, and in the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholar Program</a>. I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development and Family Studies</a> from the Pennsylvania State University in August 2019, with a graduate minor in <a href="https://soda.la.psu.edu">Social Data Analytics</a>.<br/>
 
