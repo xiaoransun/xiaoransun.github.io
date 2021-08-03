@@ -50,12 +50,13 @@ December, 2020-- I was awarded the <a href="https://med.stanford.edu/mchri/award
 
 ##### Recent Publications 
 <b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. Manuscript in press, *Developmental Psychology*. (Sun and Updegraff had equal contributions.)<br/>
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2020). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology.* [online first] <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2021). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology.* [online first] <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
 
 
 ##### Recent Talks 
 <b>Sun, X.</b> & Wang, Y. (2021, November). *Typology of Research on Families and Technology: A Systematic Review.* Workshop to be chaired at the TCRM conference at the National Council on Family Relations, virtual conference.<br/>
+Love, B. & <b>Sun, X.</b>  (2021, July). *Big Data & Data Mining Approaches for Psychology Research.* Invited talk for the UCL (University College London)-PKU (Peking University) Summer School in Experimental Design in Psychology. (Love and Sun had equal contributions)<br/>
 <b>Sun, X.,</b>  Haydel, K. F., Matheson, D., Desai, M., & Robinson, T. N. (2021, April). *Prospective study of mobile phone acquisition and ownership and well-being among low-income Latinx children.* Poster presented at the Biennial Meeting of Society for Research in Child Development (SRCD), virtual conference. <a href="../assets/Sun phone ownership SRCD 2021-2-24.pdf">*Download poster here*</a><br/> 
 <b>Sun, X.,</b> (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium chaired at the National Council on Family Relations, virtual conference.<br/>
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop chaired at the National Council on Family Relations, virtual conference.<br/>
