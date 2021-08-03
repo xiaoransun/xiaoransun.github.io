@@ -10,7 +10,10 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
   <br/>
 #### Manuscripts Published & in press
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (in press) Implications of Mexican-origin youth’s work experiences for relationships with fathers. Manuscript in press, *Cultural Diversity and Ethnic Minority Psychology.*
+<b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. Manuscript in press, *Developmental Psychology*. (Sun and Updegraff had equal contributions.)
+<br/>
+
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2021). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology.* [online first] <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
 
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a>
 <br/>
@@ -48,11 +51,14 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 
 ### Presentations
 
-#### Talk
-<b>Sun, X.</b> (2018, December). *Sibling Dynamics on Social Media: Applying Big Data to Family Studies.* Invited talk at College of Education, Zhejiang University, Hangzhou, China.
+#### Symposia, Workshops, Talks
+
+<b>Sun, X.</b> & Wang, Y. (2021, November). *Typology of Research on Families and Technology: A Systematic Review.* Workshop to be chaired at the TCRM conference at the National Council on Family Relations, virtual conference.
 <br/>
 
-#### Conference Symposia & Workshop
+Love, B. & <b>Sun, X.</b>  (2021, July). *Big Data & Data Mining Approaches for Psychology Research.* Invited talk for the UCL (University College London)-PKU (Peking University) Summer School in Experimental Design in Psychology. (Love and Sun had equal contributions)
+<br/>
+
 <b>Sun, X.</b>  (2020, November). *Family Dynamics in the Digital World: Qualitative and Quantitative Analyses of Data From Interviews, Social Media, and Smartphones.* Symposium  chaired at the National Council on Family Relations, virtual conference.
 <br/>
 
@@ -65,6 +71,9 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <b>Sun, X.</b> (2019, March). *Leveraging Machine Learning Methods for Research on Child Development in the Big Data Era.* Symposium chaired at the Biennial Meeting of Society for Research on Child Development, Baltimore, MD.
 <br/>
 
+<b>Sun, X.</b> (2018, December). *Sibling Dynamics on Social Media: Applying Big Data to Family Studies.* Invited talk at College of Education, Zhejiang University, Hangzhou, China.
+<br/>
+
 <b>Sun, X.</b> (2018, June). *Sociocultural Contexts of the Work-Family Interface: A Call to Identify Resiliency Factors.* Symposium chaired at the Biennial Meeting of Work and Family Researchers Network, Washington, D.C.
 <br/>
 
@@ -72,7 +81,7 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 <br/>
 
 #### Paper Presentations
-<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper to be presented at the National Council on Family Relations, virtual conference.
+<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper presented at the National Council on Family Relations, virtual conference.
 <br/>
 
 <b>Sun, X.,</b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference.
@@ -112,6 +121,9 @@ Padilla, J. & <b>Sun, X.,</b> (2017, November). *Links between siblings’ gende
 <br/>
 
 #### Poster Presentations
+<b>Sun, X.,</b>  Haydel, K. F., Matheson, D., Desai, M., & Robinson, T. N. (2021, April). *Prospective study of mobile phone acquisition and ownership and well-being among low-income Latinx children.* Poster presented at the Biennial Meeting of Society for Research in Child Development (SRCD), virtual conference. <a href="../assets/Sun phone ownership SRCD 2021-2-24.pdf">*Download poster here*</a>
+<br/> 
+
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2018, April). Time spent on homework among Mexican American adolescents: Contextual correlates and implications for achievement. Poster presented at the Biennial Meeting of Society on Adolescence, Minneapolis, MN. <a href="../assets/Sun culture hmwk juntos SRA 2018-4-2.pdf"> Download Poster</a>
 <br/>
 
