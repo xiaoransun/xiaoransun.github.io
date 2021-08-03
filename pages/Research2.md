@@ -21,11 +21,12 @@ Further, on this topic, another part of my work is theoretical, trying to synthe
 
 
 <b>Featured work:</b><br/>
-<b>Sun, X., </b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., Yang, X., & Robinson, T. N. *Dynamic Characteristics of Young Adults’ Smartphone Interactions with Parents: Observing Screenomes in Multiple Timescales* Manuscript under review for an invited special issue submission.
-NCFR workshop
-NCFR presentation
-<b>Sun, X., </b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference. 
-Chapter
+<b>Sun, X., </b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., Yang, X., & Robinson, T. N. *Dynamic Characteristics of Young Adults’ Smartphone Interactions with Parents: Observing Screenomes in Multiple Timescales* Manuscript under review for an invited special issue submission.<br/>
+<b>Sun, X.</b> & Wang, Y. (2021, November). *Typology of Research on Families and Technology: A Systematic Review.* Workshop to be chaired at the TCRM conference at the National Council on Family Relations, virtual conference.<br/>
+<b>Sun, X.,</b> Reeves, B., Ram, N., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2020, November). *Pulling Closer or Pushing Away? Ambivalence in the Dynamics Between Young Adults and Parents in the Digital Context.* Paper presented at the National Council on Family Relations, virtual conference.<br/>
+<b>Sun, X.,</b> Robinson, T. N., Ram, N., Reeves, B., Cho, M. J., Chiatti, A., Lee, J., Roehrick, K., Yang, X., & Fitzgerald, A. (2020, July). *Parent-Young Adult Communication in the Digital World: A Screenomics Paradigm.* Paper presented at 6th International Conference on Computational Social Science (IC2S2), virtual conference.<br/>
+<b>Sun, X. </b>& McMillan, C. (2018). The interplay between families and technology: Directions for future investigation. In J. Van Hook, S. McHale, & V. King (Eds). <a href="https://www.springer.com/fr/book/9783319955391"> *Families and technology,*</a> New York: Springer. (Authors have equal contributions)
+  <br/>
 
 
 
