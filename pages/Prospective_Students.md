@@ -28,7 +28,7 @@ Interested individuals may contact me via email with the title “Prospective Vi
 
 ### Mentoring Philosophy
 My mentorship style is encouraging, scaffolding, constructive, and responsive, which has also been in the feedback from my prior mentees. Some highlights of my mentorship:
-- I encourage stduents' exploration for career paths that they will be passionate about;
+- I encourage students' exploration for career paths that they will be passionate about;
 - I give constructive and in-time (within a week if not on vacation) feedback to students' work;
 - I respect students' work-life balance and highlight the importance of mental health and self-care;
 - I am responsive to my mentees' emails (within 24 hours if not on vacation);
