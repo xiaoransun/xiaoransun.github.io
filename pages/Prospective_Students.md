@@ -21,12 +21,12 @@ I am excited to work with undergraduate and master's students at UMN who are int
 
 If you are interested in working with me, feel free to contact me via email with the title “Prospective Undergraduate/Master Student at UMN” and include the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests. I will reach out if there is a potential fit and we can then set up a meeting for discussion.<br/>
 <br/>
- #### Visiting Students and Scholars
+#### Visiting Students and Scholars
 I might be able to host visiting students (undergraduate or graduate) and scholars depending on research interests and funding situations.
 
 Interested individuals may contact me via email with the title “Prospective Visiting Students/Scholars” and include the following information: (1) your CV; (2) a copy of your transcripts (if student); (3) a brief description of your background and research interests; and (4) representative publications or writing samples if available.
 
-### Mentoring Philosophy
+#### Mentoring Philosophy
 My mentorship style is encouraging, scaffolding, constructive, and responsive, which has also been in the feedback from my prior mentees. Some highlights of my mentorship:
 - I encourage students' exploration for career paths that they will be passionate about;
 - I give constructive and in-time (within a week if not on vacation) feedback to students' work;
