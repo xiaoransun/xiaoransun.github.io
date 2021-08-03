@@ -13,6 +13,7 @@ As a developmental and family psychologist, I conduct research on the interplay 
 <br/>
 <br/>
 <br/>
+
 #### (1) Families and youth in the digital context.
 Digital technology is ubiquitous and pervasive in individuals’ and families’ life. Thus, the digital context is an increasingly important context to consider in the social ecology of families and youth. How do family interactions unfold in the digital world? What are the implications of family digital interactions for family functioning and youth well-being? <br/>
 
