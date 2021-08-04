@@ -9,7 +9,7 @@ I am actively looking for students who have strong interests and background in w
 
 #### Prospective Ph.D. Students
 
-I have fully-funded Ph.D. positions in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Health Development</a>, at University of Minnesota, starting Fall 2022. <br/>
+I have fully-funded Ph.D. positions in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Human Development</a>, at University of Minnesota, starting Fall 2022. <br/>
 
 Strong and self-motivated candidates with ANY of the following qualifications would be particularly encouraged to apply: (1) prior experience in studying family systems, adolescent/young adult development, technology & media contexts, cultural contexts, and/or education; (2) knowledge in longitudinal data analysis, time-series analysis, applied data science and machine learning; (3) skills in programming.<br/>
 
