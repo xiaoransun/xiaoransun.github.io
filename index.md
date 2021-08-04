@@ -13,7 +13,7 @@ gtag('config', 'UA-136688043-1');
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am an incoming assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Health Development</a>, at University of Minnesota. <br/>
+Welcome to my website! I am an incoming assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Human Development</a>, at University of Minnesota. <br/>
 
 <b>I am accepting graduate students for Fall 2022. </b> I also welcome undergraduate and master's students to collaborate on research. Please check the <a href="{{ BASE_PATH }}/pages/Prospective_Students.html">Prospective Students</a> page for more information.<br/>
 
@@ -64,7 +64,7 @@ Love, B. & <b>Sun, X.</b>  (2021, July). *Big Data & Data Mining Approaches for 
 <b>Sun, X.,</b> (2020, November). *Introduction to Machine Learning for Family Research: Basic Concepts, Common Algorithms, and Application Examples.* Workshop chaired at the National Council on Family Relations, virtual conference.<br/>
 <a href="../assets/Sun NCFR ML workshop 2020-11-12.pdf">*Download handout here*</a><br/>
 
-<b><a href="https://xiaoransun.github.io/pages/Publications%20&%20Presentations.html">See the full list of publications & presentations</a> </b> 
+<b><a href="https://xiaoransun.github.io/pages/Publications.html">See the full list of publications & presentations</a> </b> 
 <br/>
 <br/>
 
