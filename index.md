@@ -13,7 +13,7 @@ gtag('config', 'UA-136688043-1');
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am an incoming assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Human Development</a>, at University of Minnesota. <br/>
+Welcome to my website! I am an incoming assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Human Development</a>, at University of Minnesota. Check this <a href="https://news.cehd.umn.edu/xiaoran-sun-to-join-fsos-faculty/">news story</a> for more information.<br/>
 
 <b>I am accepting graduate students for Fall 2022. </b> I also welcome undergraduate and master's students to collaborate on research. Please check the <a href="{{ BASE_PATH }}/pages/Prospective_Students.html">Prospective Students</a> page for more information.<br/>
 
