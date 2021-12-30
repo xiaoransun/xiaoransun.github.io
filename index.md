@@ -13,11 +13,11 @@ gtag('config', 'UA-136688043-1');
 ### Xiaoran Sun (孙潇然)
 
 
-Welcome to my website! I am an incoming assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Human Development</a>, at University of Minnesota. Check this <a href="https://news.cehd.umn.edu/xiaoran-sun-to-join-fsos-faculty/">news story</a> for more information.<br/>
+Welcome to my website! I am an assistant professor in the <a href="https://www.cehd.umn.edu/fsos/index.html">Department of Family Social Science</a>, <a href="https://www.cehd.umn.edu/">College of Education and Human Development</a>, at University of Minnesota. Check this <a href="https://news.cehd.umn.edu/xiaoran-sun-to-join-fsos-faculty/">news story</a> for more information.<br/>
 
 <b>I am accepting graduate students for Fall 2022. </b> I also welcome undergraduate and master's students to collaborate on research. Please check the <a href="{{ BASE_PATH }}/pages/Prospective_Students.html">Prospective Students</a> page for more information.<br/>
 
-I am currently a postdoctoral scholar at Stanford University, affiliated with the <a href="https://med.stanford.edu/pediatrics.html">Department of Pediatrics</a> and <a href="https://comm.stanford.edu/">Department of Communication</a>, and in the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholars Program</a>. I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development and Family Studies</a> from the Pennsylvania State University in August 2019, with a graduate minor in <a href="https://soda.la.psu.edu">Social Data Analytics</a>.<br/>
+I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development and Family Studies</a> from the Pennsylvania State University in August 2019, with a graduate minor in <a href="https://soda.la.psu.edu">Social Data Analytics</a>. I completed my postdoctoral training at Stanford University, with the <a href="https://med.stanford.edu/pediatrics.html">Department of Pediatrics</a>, <a href="https://comm.stanford.edu/">Department of Communication</a>, and the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholars Program</a>. <br/>
 
 <b>Research areas, *Substantive*:</b> Family systems; Adolescent & young adult; Achievements & well-being; Technology & cultural contexts<br/>
 <b>Research areas, *Methodology*:</b> Computational social science; Big data & machine learning; Longitudinal dyadic data modeling<br/>
