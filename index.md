@@ -30,7 +30,7 @@ I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development
     <div class="row-fluid">
         <div class="span5">
             Xiaoran Sun<br/>
-            Email: xbs5014@stanford.edu<br/>
+            Email: sunx0521@umn.edu<br/>
             <a href="../assets/Sun_VITA.pdf">Curriculum Vitae</a><br/>
             <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5-eJkGrq42VwM2xj7-DGGzqsNVu4VLLwzZvSKSJTD8x98DYetkvbhiBxHvERxwcbyIfwMk6znRr3vEoTGnDfmaltG3CmVBqL18ikdFDJmDblWEkB4&user=5-ZTRKwAAAAJ">Google Scholar Profile</a><br/>
             <a href="https://github.com/xiaoransun">GitHub</a><br/>
