@@ -46,7 +46,8 @@ I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development
 </div>
 
 #### News
-
+<b>May 10, 2022</b>: Xiaoran Sun has been awarded University of Minnesota Grants-in-Aid of Research, Artistry and Scholarship. <br/>
+Project title: *"Examining Teenagers’ Overnight Smartphone Use and Its Implications for Well-Being with High-Intensity Smartphone Data"* <a href="https://news.cehd.umn.edu/fsos-faculty-member-awarded-university-research-grant%EF%BF%BC/">Read more</a>.
 
 ##### Recent Publications 
 <b>Sun, X.,</b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2022). Connectedness and independence of young adults and parents in the digital world: Observing smartphone interactions at multiple timescales using Screenomics. *Journal of Social and Personal Relationships,* [online first] <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1177/02654075221104268</a><br/>
