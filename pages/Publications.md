@@ -9,7 +9,12 @@ description: Xiaoran Sun's Publications & Presentations
 ### Publications
 *Email me to get full manuscripts! sunx0521@umn.edu*<br/>
   <br/>
-#### Manuscripts Published & in press
+#### Manuscripts Published 
+
+<b>Sun, X.,</b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2022). Connectedness and independence of young adults and parents in the digital world: Observing smartphone interactions at multiple timescales using Screenomics. *Journal of Social and Personal Relationships,* [online first] <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1177/02654075221104268</a><br/>
+
+Padilla, J., <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2022). Longitudinal links between adolescent siblings’ gender-typed characteristics and sibling relationship quality: A dyadic approach. *Current Psychology,* [online first] <a href="https://doi.org/10.1007/s12144-022-02919-0">https://doi.org/10.1007/s12144-022-02919-0</a><br/>
+
 <b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. (2021). Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. *Developmental Psychology, 57*, 1708-1718. <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1037/dev0001196. </a>(Sun and Updegraff had equal contributions.) Media mentions: <a href="https://www.psu.edu/news/social-science-research-institute/story/impacts-covid-19-school-closures-latino-sibling/">Penn State News</a> <br/> 
 
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2021). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology, 27,* 796-807. <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
@@ -51,6 +56,8 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 ### Presentations
 
 #### Symposia, Workshops, Talks
+
+<b>Sun, X.,</b> (2022, February). *Introduction to Machine Learning for Human Development and Family Research.* Talk delivered at NICHD SBSBeat (Social and Behavioral Sciences Branch Education and Training) Seminar.<br/>
 
 <b>Sun, X.</b> & Wang, Y. (2021, November). *Typology of Research on Families and Technology: A Systematic Review.* Workshop to be chaired at the TCRM conference at the National Council on Family Relations, virtual conference.
 <br/>
