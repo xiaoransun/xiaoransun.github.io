@@ -19,7 +19,7 @@ Welcome to my website! I am an assistant professor in the <a href="https://www.c
 
 I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development and Family Studies</a> from the Pennsylvania State University in August 2019, with a graduate minor in <a href="https://soda.la.psu.edu">Social Data Analytics</a>. I completed my postdoctoral training at Stanford University, with the <a href="https://med.stanford.edu/pediatrics.html">Department of Pediatrics</a>, <a href="https://comm.stanford.edu/">Department of Communication</a>, and the <a href="https://datascience.stanford.edu/programs/stanford-data-science-scholars-program">Stanford Data Science Scholars Program</a>. <br/>
 
-<b>Research areas, *Substantive*:</b> Family systems; Adolescent & young adult; Achievements & well-being; Technology & cultural contexts<br/>
+<b>Research areas, *Substantive*:</b> Technology & smartphone use; Adolescent & young adult; Family systems; Achievements & well-being; Cultural contexts<br/>
 <b>Research areas, *Methodology*:</b> Computational social science; Big data & machine learning; Longitudinal dyadic data modeling<br/>
 
 <a href="https://xiaoransun.github.io/pages/Research.html">See details about my research.</a>
@@ -49,6 +49,8 @@ I obtained my PhD degree in <a href="https://hhd.psu.edu/hdfs">Human Development
 
 
 ##### Recent Publications 
+<b>Sun, X.,</b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2022). Connectedness and independence of young adults and parents in the digital world: Observing smartphone interactions at multiple timescales using Screenomics. *Journal of Social and Personal Relationships,* [online first] <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1177/02654075221104268</a><br/>
+Padilla, J., <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2022). Longitudinal links between adolescent siblings’ gender-typed characteristics and sibling relationship quality: A dyadic approach. *Current Psychology,* [online first] <a href="https://doi.org/10.1007/s12144-022-02919-0">https://doi.org/10.1007/s12144-022-02919-0</a><br/>
 <b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. (2021) Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. *Developmental Psychology, 57*, 1708-1718. <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1037/dev0001196. </a>(Sun and Updegraff had equal contributions.) Media mentions: <a href="https://www.psu.edu/news/social-science-research-institute/story/impacts-covid-19-school-closures-latino-sibling/">Penn State News</a> <br/> 
 <b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2021). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology, 27,* 796-807. <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
 <b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770-2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a><br/>
