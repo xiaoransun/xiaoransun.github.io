@@ -10,6 +10,7 @@ description: Xiaoran Sun's Publications & Presentations
 *Email me to get full manuscripts! sunx0521@umn.edu*<br/>
   <br/>
 #### Manuscripts Published 
+<b>Sun, X.,</b>  Haydel, F., Matheson, D., Desai, M., & Robinson, T. N. (2022). Are mobile phone ownership and age of acquisition associated with child adjustment? A 5-year prospective study among low-income Latinx children. *Child Development.* [online first] <a href="https://doi.org/10.1111/cdev.13851">https://doi.org/10.1111/cdev.13851</a><br/>
 
 <b>Sun, X.,</b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2022). Connectedness and independence of young adults and parents in the digital world: Observing smartphone interactions at multiple timescales using Screenomics. *Journal of Social and Personal Relationships,* [online first] <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1177/02654075221104268</a><br/>
 
