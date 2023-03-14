@@ -7,15 +7,20 @@ description: Xiaoran Sun's Publications & Presentations
 
 
 ### Publications
-*Email me to get full manuscripts! xbs5014@stanford.edu*<br/>
+*Email me to get full manuscripts! sunx0521@umn.edu*<br/>
   <br/>
-#### Manuscripts Published & in press
-<b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. Manuscript in press, *Developmental Psychology*. (Sun and Updegraff had equal contributions.)
-<br/>
+#### Manuscripts Published 
+<b>Sun, X.,</b>  Haydel, F., Matheson, D., Desai, M., & Robinson, T. N. (2022). Are mobile phone ownership and age of acquisition associated with child adjustment? A 5-year prospective study among low-income Latinx children. *Child Development.* [online first] <a href="https://doi.org/10.1111/cdev.13851">https://doi.org/10.1111/cdev.13851</a><br/>
 
-<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2021). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology.* [online first] <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
+<b>Sun, X.,</b> Ram, N., Reeves, B., Cho, M. J., Fitzgerald, A., & Robinson, T. N. (2022). Connectedness and independence of young adults and parents in the digital world: Observing smartphone interactions at multiple timescales using Screenomics. *Journal of Social and Personal Relationships,* [online first] <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1177/02654075221104268</a><br/>
 
-<b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. [online first] *Journal of Child and Family Studies.* <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a>
+Padilla, J., <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2022). Longitudinal links between adolescent siblings’ gender-typed characteristics and sibling relationship quality: A dyadic approach. *Current Psychology,* [online first] <a href="https://doi.org/10.1007/s12144-022-02919-0">https://doi.org/10.1007/s12144-022-02919-0</a><br/>
+
+<b>Sun, X.,</b> Updegraff, K. A., McHale, S. M., Hochgraf, A. K., Gallagher, A. M., & Umaña-Taylor, A. J. (2021). Implications of COVID-19 school closures for sibling dynamics among Latinx children in the U.S.: A prospective, daily diary study. *Developmental Psychology, 57*, 1708-1718. <a href="https://doi.org/10.1037/dev0001196">https://doi.org/10.1037/dev0001196. </a>(Sun and Updegraff had equal contributions.) Media mentions: <a href="https://www.psu.edu/news/social-science-research-institute/story/impacts-covid-19-school-closures-latino-sibling/">Penn State News</a> <br/> 
+
+<b>Sun, X.,</b> McHale, S. M., Updegraff, K. A., & Umaña-Taylor, A. J. (2021). Implications of Mexican-origin youth’s work experiences for relationships with fathers.  *Cultural Diversity and Ethnic Minority Psychology, 27,* 796-807. <a href="https://doi.org/10.1037/cdp0000468">https://doi.org/10.1037/cdp0000468</a><br/>
+
+<b>Sun, X.,</b> Ram, N., & McHale, S. M. (2020). Adolescent family experiences predict young adult educational attainment: A data-based cross-study synthesis with machine learning. *Journal of Child and Family Studies, 29,* 2770–2785. <a href="https://doi.org/10.1007/s10826-020-01775-5">https://doi.org/10.1007/s10826-020-01775-5</a>
 <br/>
 
 <b>Sun, X.,</b> McHale, S. M., & Updegraff, K. A. (2020). Career adaptivity mediates longitudinal links between parent-adolescent relationships and young adult occupational attainment. *Developmental Psychology, 56,* 2309-2321. <a href="https://doi.org/10.1037/dev0001120">https://doi.org/10.1037/dev0001120</a><br/>
@@ -52,6 +57,8 @@ Lawson, K. M., <b>Sun, X.,</b> & McHale, S. M. (2019). Family-friendly for her, 
 ### Presentations
 
 #### Symposia, Workshops, Talks
+
+<b>Sun, X.,</b> (2022, February). *Introduction to Machine Learning for Human Development and Family Research.* Talk delivered at NICHD SBSBeat (Social and Behavioral Sciences Branch Education and Training) Seminar.<br/>
 
 <b>Sun, X.</b> & Wang, Y. (2021, November). *Typology of Research on Families and Technology: A Systematic Review.* Workshop to be chaired at the TCRM conference at the National Council on Family Relations, virtual conference.
 <br/>
