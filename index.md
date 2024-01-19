@@ -1,9 +1,8 @@
-<head><!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136688043-1"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://yournewpage.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://yournewpage.com/">
+<link rel="canonical" href="https://yournewpage.com/">
 
 gtag('config', 'UA-136688043-1');
 </script>
