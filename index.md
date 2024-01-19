@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://yournewpage.com/</title>
-<meta http-equiv="refresh" content="0; URL=https://yournewpage.com/">
-<link rel="canonical" href="https://yournewpage.com/">
+<title>Redirecting to https://fsos.umn.edu/xiaoran-sun</title>
+<meta http-equiv="refresh" content="0; URL=https://fsos.umn.edu/xiaoran-sun/">
+<link rel="canonical" href="https://fsos.umn.edu/xiaoran-sun">
 
 gtag('config', 'UA-136688043-1');
 </script>
